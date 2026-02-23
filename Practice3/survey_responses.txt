@@ -1,0 +1,802 @@
+ID	Time Commitment	Budget (per semester)	Career Change?	Target Timeline	Adopter Category
+========================================================================================================================
+1	5-10 hours per week (1 course)	$6,000-$8,000	No	3-5 years or flexible	Early Majority
+2	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+3	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+4	15-20 hours per week (2 courses)	$8,000-$12,000	No	3-5 years or flexible	Innovator
+5	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+6	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years	Early Adopter
+7	15-20 hours per week (2 courses)	$8,000-$12,000	No	3-5 years or flexible	Innovator
+8	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+9	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years	Innovator
+10	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Early Adopter
+11	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Early Adopter
+12	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+13	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+14	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Majority
+15	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years	Early Adopter
+16	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Adopter
+17	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years	Early Majority
+18	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+19	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Early Adopter
+20	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Adopter
+21	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Adopter
+22	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+23	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+24	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years	Early Majority
+25	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+26	10-15 hours per week	$6,000-$8,000	No	2-3 years	Innovator
+27	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+28	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years	Early Adopter
+29	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+30	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Adopter
+31	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+32	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Innovator
+33	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+34	15-20 hours per week (2 courses)	$10,000-$12,000	No	2-3 years	Early Adopter
+35	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+36	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+37	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Early Majority
+38	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+39	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+40	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+41	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+42	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Early Adopter
+43	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Innovator
+44	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+45	10-15 hours per week	$12,000-$15,000	Yes	2-3 years	Early Adopter
+46	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	3-5 years	Early Majority
+47	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+48	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+49	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+50	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+51	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+52	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+53	15-20 hours per week (2 courses)	$10,000-$15,000	No	2-3 years	Early Adopter
+54	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+55	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+56	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Innovator
+57	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+58	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years	Early Adopter
+59	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Majority
+60	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	3-5 years	Early Adopter
+61	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Majority
+62	10-15 hours per week	$12,000-$15,000	No	2-3 years	Early Majority
+63	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+64	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+65	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+66	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+67	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+68	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Late Majority
+69	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years	Innovator
+70	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years	Innovator
+71	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+72	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Early Adopter
+73	10-15 hours per week	$10,000-$12,000	No	2-3 years	Early Adopter
+74	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years	Early Adopter
+75	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Innovator
+76	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Early Majority
+77	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+78	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Early Majority
+79	15-20 hours per week (2 courses)	$10,000-$12,000	No	3-5 years or flexible	Innovator
+80	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	1-2 years	Innovator
+81	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years	Early Majority
+82	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Adopter
+83	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years	Innovator
+84	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+85	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+86	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+87	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+88	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Adopter
+89	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+90	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Early Majority
+91	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+92	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Innovator
+93	10-15 hours per week	$12,000-$15,000	Yes	3-5 years	Early Majority
+94	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Innovator
+95	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+96	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Adopter
+97	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Adopter
+98	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Early Adopter
+99	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Majority
+100	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+101	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible	Late Majority
+102	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+103	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years	Early Majority
+104	10-15 hours per week	$6,000-$8,000	No	2-3 years	Innovator
+105	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Innovator
+106	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+107	10-15 hours per week	$5,000-$8,000	No	2-3 years	Early Adopter
+108	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Innovator
+109	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Early Adopter
+110	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+111	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years	Innovator
+112	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+113	15-20 hours per week (2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+114	10-15 hours per week	$10,000-$12,000	Yes	1-2 years	Innovator
+115	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Majority
+116	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+117	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years	Early Majority
+118	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Majority
+119	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+120	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+121	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+122	20+ hours per week (full-time)	$8,000-$12,000	No	2-3 years	Innovator
+123	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+124	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years	Late Majority
+125	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+126	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Innovator
+127	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+128	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+129	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+130	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years	Early Adopter
+131	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Early Majority
+132	10-15 hours per week	$12,000-$15,000	No	2-3 years	Early Majority
+133	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years	Early Majority
+134	10-15 hours per week	$5,000-$8,000	Yes	2-3 years	Early Adopter
+135	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Early Adopter
+136	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+137	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Majority
+138	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+139	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Majority
+140	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+141	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years	Early Majority
+142	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	1-2 years	Innovator
+143	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+144	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+145	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+146	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+147	10-15 hours per week	$10,000-$12,000	No	2-3 years	Innovator
+148	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years	Early Adopter
+149	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Innovator
+150	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+151	15-20 hours per week (2 courses)	$12,000-$15,000	No	2-3 years	Innovator
+152	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Majority
+153	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Adopter
+154	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	3-5 years	Early Majority
+155	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Innovator
+156	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Early Adopter
+157	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Adopter
+158	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+159	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+160	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Late Majority
+161	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+162	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Innovator
+163	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+164	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+165	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+166	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+167	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Majority
+168	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Majority
+169	20+ hours per week (full-time)	$8,000-$12,000	Yes	1-2 years	Innovator
+170	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+171	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+172	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+173	10-15 hours per week	$5,000-$8,000	Yes	3-5 years	Early Majority
+174	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Innovator
+175	20+ hours per week (full-time)	$12,000-$15,000	Yes	2-3 years	Innovator
+176	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+177	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+178	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+179	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+180	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years	Late Majority
+181	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years	Early Majority
+182	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Majority
+183	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Adopter
+184	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible	Early Adopter
+185	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+186	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+187	5-10 hours per week (part-time)	$8,000-$12,000	Yes	3-5 years	Early Majority
+188	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years	Innovator
+189	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+190	10-15 hours per week	$12,000-$15,000	Yes	1-2 years	Innovator
+191	10-15 hours per week	$10,000-$12,000	Yes	3-5 years	Early Majority
+192	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Early Majority
+193	10-15 hours per week	$10,000-$15,000	No	2-3 years	Early Adopter
+194	10-15 hours per week	$12,000-$15,000	Yes	2-3 years	Early Adopter
+195	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+196	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+197	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+198	5-10 hours per week (part-time)	$2,000-$4,000	Yes	1-2 years	Innovator
+199	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+200	10-15 hours per week	$12,000-$15,000	No	2-3 years	Early Adopter
+201	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+202	10-15 hours per week	$6,000-$8,000	No	2-3 years	Innovator
+203	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Innovator
+204	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Adopter
+205	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+206	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years	Early Adopter
+207	10-15 hours per week	$5,000-$8,000	No	2-3 years	Innovator
+208	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+209	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+210	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Late Majority
+211	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+212	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Early Adopter
+213	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years	Early Majority
+214	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+215	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Adopter
+216	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+217	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+218	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Early Majority
+219	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+220	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Adopter
+221	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+222	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+223	20+ hours per week (full-time)	$10,000-$12,000	Yes	1-2 years	Innovator
+224	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Majority
+225	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Majority
+226	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Adopter
+227	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years	Early Majority
+228	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+229	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Majority
+230	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+231	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Majority
+232	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Adopter
+233	10-15 hours per week	$12,000-$15,000	Yes	2-3 years	Innovator
+234	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+235	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+236	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Adopter
+237	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Majority
+238	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Innovator
+239	5-10 hours per week (part-time)	$6,000-$8,000	No	3-5 years or flexible	Late Majority
+240	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Innovator
+241	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Early Majority
+242	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Innovator
+243	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+244	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Adopter
+245	10-15 hours per week	$10,000-$15,000	No	2-3 years	Early Adopter
+246	10-15 hours per week	$6,000-$8,000	Yes	3-5 years	Early Adopter
+247	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years	Early Majority
+248	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Innovator
+249	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+250	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+251	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+252	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+253	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+254	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Early Adopter
+255	20+ hours per week (full-time)	$12,000-$15,000	No	2-3 years	Innovator
+256	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+257	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Innovator
+258	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+259	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+260	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+261	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years	Innovator
+262	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years	Innovator
+263	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Early Adopter
+264	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Innovator
+265	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years	Innovator
+266	20+ hours per week (full-time)	$10,000-$12,000	Yes	2-3 years	Early Adopter
+267	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible	Early Adopter
+268	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Adopter
+269	10-15 hours per week	$10,000-$12,000	No	2-3 years	Innovator
+270	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+271	10-15 hours per week	$8,000-$12,000	Yes	1-2 years	Innovator
+272	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years	Early Majority
+273	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Innovator
+274	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+275	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+276	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+277	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Innovator
+278	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Early Adopter
+279	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+280	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years	Early Majority
+281	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Majority
+282	10-15 hours per week	$10,000-$15,000	No	2-3 years	Innovator
+283	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Adopter
+284	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Adopter
+285	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+286	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years	Late Majority
+287	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+288	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years	Early Adopter
+289	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+290	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years	Early Adopter
+291	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+292	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Majority
+293	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years	Innovator
+294	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+295	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Early Adopter
+296	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+297	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+298	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Majority
+299	10-15 hours per week	$12,000-$15,000	No	2-3 years	Innovator
+300	5-10 hours per week (part-time)	$8,000-$12,000	Yes	3-5 years	Early Majority
+301	15-20 hours per week (2 courses)	$12,000-$15,000	No	2-3 years	Early Adopter
+302	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Innovator
+303	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+304	10-15 hours per week	$5,000-$8,000	No	2-3 years	Early Adopter
+305	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Innovator
+306	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+307	20+ hours per week (full-time)	$12,000-$15,000	No	2-3 years	Innovator
+308	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Adopter
+309	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+310	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	3-5 years	Early Adopter
+311	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+312	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years	Innovator
+313	10-15 hours per week	$8,000-$12,000	No	2-3 years	Early Adopter
+314	20+ hours per week (full-time)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+315	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+316	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+317	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+318	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+319	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years	Early Majority
+320	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+321	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Late Majority
+322	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years	Innovator
+323	10-15 hours per week	$12,000-$15,000	Yes	1-2 years	Innovator
+324	10-15 hours per week	$12,000-$15,000	Yes	3-5 years	Early Adopter
+325	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+326	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years	Innovator
+327	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+328	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Majority
+329	10-15 hours per week	$8,000-$12,000	Yes	3-5 years	Early Adopter
+330	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years	Innovator
+331	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+332	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Innovator
+333	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+334	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	3-5 years	Early Adopter
+335	20+ hours per week (full-time)	$8,000-$12,000	No	2-3 years	Innovator
+336	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years	Early Adopter
+337	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+338	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+339	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+340	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+341	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+342	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+343	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Early Majority
+344	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years	Early Majority
+345	10-15 hours per week	$10,000-$12,000	Yes	3-5 years	Early Adopter
+346	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Early Adopter
+347	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+348	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years	Late Majority
+349	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+350	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Early Majority
+351	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+352	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+353	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Adopter
+354	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Majority
+355	10-15 hours per week	$5,000-$8,000	Yes	2-3 years	Innovator
+356	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years	Innovator
+357	5-10 hours per week (part-time)	$2,000-$4,000	Yes	1-2 years	Early Adopter
+358	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+359	10-15 hours per week	$10,000-$15,000	No	2-3 years	Early Adopter
+360	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+361	10-15 hours per week	$10,000-$12,000	Yes	3-5 years	Early Adopter
+362	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+363	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+364	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Innovator
+365	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years	Innovator
+366	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+367	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years	Early Adopter
+368	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years	Early Majority
+369	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+370	10-15 hours per week	$10,000-$15,000	No	2-3 years	Innovator
+371	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+372	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	3-5 years	Early Majority
+373	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years	Early Majority
+374	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Early Adopter
+375	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Innovator
+376	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+377	10-15 hours per week	$10,000-$12,000	No	2-3 years	Innovator
+378	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+379	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Majority
+380	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Early Adopter
+381	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+382	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Majority
+383	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible	Early Adopter
+384	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Innovator
+385	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+386	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+387	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years	Early Adopter
+388	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+389	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+390	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+391	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years	Innovator
+392	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+393	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years	Early Majority
+394	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+395	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+396	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+397	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Innovator
+398	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+399	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years	Late Majority
+400	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+401	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+402	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Innovator
+403	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+404	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+405	10-15 hours per week	$12,000-$15,000	Yes	1-2 years	Innovator
+406	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+407	10-15 hours per week	$6,000-$8,000	Yes	3-5 years	Early Majority
+408	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Innovator
+409	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+410	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+411	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Majority
+412	10-15 hours per week	$6,000-$8,000	No	2-3 years	Early Adopter
+413	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+414	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+415	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+416	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years	Innovator
+417	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Majority
+418	10-15 hours per week	$10,000-$15,000	Yes	1-2 years	Innovator
+419	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible	Late Majority
+420	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years	Innovator
+421	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+422	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Innovator
+423	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+424	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Early Adopter
+425	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years	Innovator
+426	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years	Early Majority
+427	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+428	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years	Early Majority
+429	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Innovator
+430	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years	Early Majority
+431	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+432	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Late Majority
+433	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+434	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+435	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+436	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	3-5 years	Early Majority
+437	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+438	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+439	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+440	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+441	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years	Late Majority
+442	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Adopter
+443	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+444	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+445	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Innovator
+446	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Early Adopter
+447	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+448	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+449	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Innovator
+450	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+451	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Innovator
+452	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+453	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+454	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+455	5-10 hours per week (part-time)	$8,000-$12,000	Yes	3-5 years	Late Majority
+456	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years	Innovator
+457	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+458	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Late Majority
+459	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	3-5 years	Early Majority
+460	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Innovator
+461	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years	Innovator
+462	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Innovator
+463	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Majority
+464	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+465	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+466	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+467	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years	Early Adopter
+468	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+469	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+470	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+471	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+472	10-15 hours per week	$12,000-$15,000	No	2-3 years	Innovator
+473	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+474	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years	Innovator
+475	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+476	10-15 hours per week	$10,000-$12,000	No	2-3 years	Early Adopter
+477	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+478	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	1-2 years	Innovator
+479	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+480	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Majority
+481	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Early Majority
+482	20+ hours per week (full-time)	$8,000-$12,000	No	2-3 years	Early Adopter
+483	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years	Early Majority
+484	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years	Early Adopter
+485	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Majority
+486	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Adopter
+487	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Early Majority
+488	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+489	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+490	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Innovator
+491	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+492	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Adopter
+493	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years	Innovator
+494	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+495	10-15 hours per week	$6,000-$8,000	No	2-3 years	Innovator
+496	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+497	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+498	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+499	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years	Early Majority
+500	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+501	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Innovator
+502	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	3-5 years	Early Adopter
+503	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years	Early Adopter
+504	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Early Adopter
+505	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+506	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years	Early Adopter
+507	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+508	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+509	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Innovator
+510	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+511	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Early Adopter
+512	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+513	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Majority
+514	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+515	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+516	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+517	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+518	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+519	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Majority
+520	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+521	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+522	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+523	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+524	10-15 hours per week	$8,000-$12,000	No	2-3 years	Early Majority
+525	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+526	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Majority
+527	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	3-5 years	Early Adopter
+528	10-15 hours per week	$10,000-$15,000	No	2-3 years	Early Majority
+529	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+530	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Majority
+531	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Innovator
+532	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years	Early Adopter
+533	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Early Adopter
+534	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+535	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+536	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible	Early Adopter
+537	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+538	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+539	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+540	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years	Early Adopter
+541	10-15 hours per week	$5,000-$8,000	No	2-3 years	Early Adopter
+542	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+543	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+544	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+545	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Innovator
+546	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Early Adopter
+547	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+548	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Early Adopter
+549	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Early Adopter
+550	20+ hours per week (full-time)	$10,000-$15,000	No	3-5 years or flexible	Innovator
+551	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+552	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+553	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+554	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years	Early Adopter
+555	5-10 hours per week (part-time)	$6,000-$8,000	Yes	3-5 years	Early Majority
+556	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+557	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+558	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Adopter
+559	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Early Adopter
+560	10-15 hours per week	$5,000-$8,000	Yes	2-3 years	Early Adopter
+561	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+562	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+563	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+564	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Adopter
+565	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+566	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+567	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Majority
+568	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years	Early Majority
+569	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+570	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+571	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+572	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Adopter
+573	10-15 hours per week	$5,000-$8,000	No	2-3 years	Early Adopter
+574	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+575	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Majority
+576	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+577	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years	Early Adopter
+578	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Innovator
+579	5-10 hours per week (part-time)	$2,000-$4,000	Yes	1-2 years	Early Adopter
+580	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Adopter
+581	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+582	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Early Majority
+583	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+584	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years	Early Adopter
+585	10-15 hours per week	$5,000-$8,000	Yes	3-5 years	Early Majority
+586	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Majority
+587	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years	Early Majority
+588	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Innovator
+589	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+590	15-20 hours per week (2 courses)	$8,000-$12,000	No	2-3 years	Innovator
+591	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+592	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Late Majority
+593	5-10 hours per week (1 course)	$6,000-$8,000	No	3-5 years or flexible	Early Majority
+594	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Majority
+595	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Majority
+596	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+597	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible	Early Adopter
+598	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+599	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+600	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years	Early Majority
+601	10-15 hours per week	$6,000-$8,000	No	2-3 years	Early Adopter
+602	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Adopter
+603	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Majority
+604	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Adopter
+605	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Adopter
+606	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+607	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+608	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+609	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+610	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Innovator
+611	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible	Innovator
+612	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years	Innovator
+613	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+614	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+615	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible	Innovator
+616	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Adopter
+617	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Majority
+618	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+619	10-15 hours per week	$8,000-$12,000	Yes	3-5 years	Early Adopter
+620	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+621	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Innovator
+622	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Innovator
+623	10-15 hours per week	$8,000-$12,000	Yes	1-2 years	Innovator
+624	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible	Innovator
+625	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+626	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+627	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Innovator
+628	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Innovator
+629	10-15 hours per week	$12,000-$15,000	Yes	2-3 years	Early Majority
+630	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Majority
+631	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+632	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Early Majority
+633	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+634	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+635	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible	Innovator
+636	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Innovator
+637	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible	Early Adopter
+638	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+639	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years	Early Majority
+640	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years	Innovator
+641	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Innovator
+642	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+643	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Innovator
+644	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Early Adopter
+645	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+646	10-15 hours per week	$10,000-$15,000	Yes	3-5 years	Early Adopter
+647	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years	Innovator
+648	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Innovator
+649	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible	Innovator
+650	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Innovator
+651	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+652	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+653	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+654	10-15 hours per week	$12,000-$15,000	Yes	1-2 years	Innovator
+655	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+656	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Majority
+657	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+658	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Majority
+659	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+660	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+661	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years	Early Majority
+662	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+663	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible	Early Majority
+664	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Majority
+665	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years	Early Majority
+666	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Early Adopter
+667	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible	Early Adopter
+668	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Late Majority
+669	10-15 hours per week	$10,000-$12,000	No	2-3 years	Early Adopter
+670	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+671	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+672	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Early Adopter
+673	10-15 hours per week	$10,000-$12,000	Yes	1-2 years	Early Adopter
+674	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+675	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Early Majority
+676	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Innovator
+677	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years	Early Majority
+678	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Early Adopter
+679	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years	Early Adopter
+680	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+681	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Adopter
+682	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+683	10-15 hours per week	$12,000-$15,000	Yes	2-3 years	Early Majority
+684	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years	Early Adopter
+685	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+686	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+687	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible	Late Majority
+688	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Majority
+689	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years	Early Adopter
+690	10-15 hours per week	$12,000-$15,000	Yes	3-5 years	Early Majority
+691	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Majority
+692	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years	Early Adopter
+693	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+694	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Majority
+695	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years	Early Adopter
+696	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Adopter
+697	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years	Early Majority
+698	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+699	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+700	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years	Innovator
+701	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+702	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years	Early Majority
+703	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years	Early Majority
+704	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Innovator
+705	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+706	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Innovator
+707	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Innovator
+708	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Early Adopter
+709	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years	Innovator
+710	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+711	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible	Early Majority
+712	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Adopter
+713	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Innovator
+714	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Adopter
+715	10-15 hours per week	$10,000-$15,000	No	2-3 years	Innovator
+716	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years	Early Adopter
+717	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+718	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Majority
+719	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Adopter
+720	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years	Early Adopter
+721	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years	Early Adopter
+722	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years	Innovator
+723	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years	Early Adopter
+724	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+725	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Early Majority
+726	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years	Innovator
+727	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years	Early Majority
+728	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Majority
+729	10-15 hours per week	$6,000-$8,000	Yes	2-3 years	Early Majority
+730	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years	Early Adopter
+731	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+732	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Early Adopter
+733	10-15 hours per week	$8,000-$12,000	Yes	2-3 years	Early Adopter
+734	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Innovator
+735	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+736	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years	Early Adopter
+737	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years	Early Adopter
+738	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years	Early Adopter
+739	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years	Early Adopter
+740	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+741	10-15 hours per week	$10,000-$15,000	Yes	1-2 years	Innovator
+742	10-15 hours per week	$6,000-$8,000	Yes	1-2 years	Innovator
+743	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years	Early Adopter
+744	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+745	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years	Early Majority
+746	10-15 hours per week	$10,000-$12,000	Yes	2-3 years	Innovator
+747	15-20 hours per week (2 courses)	$10,000-$12,000	Yes	1-2 years	Innovator
+748	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+749	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Early Majority
+750	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Adopter
+751	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years	Early Majority
+752	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible	Early Majority
+753	10-15 hours per week	$5,000-$8,000	No	2-3 years	Innovator
+754	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+755	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years	Early Adopter
+756	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years	Early Adopter
+757	10-15 hours per week	$12,000-$15,000	No	2-3 years	Early Majority
+758	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years	Early Majority
+759	10-15 hours per week	$5,000-$8,000	Yes	1-2 years	Innovator
+760	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Early Majority
+761	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years	Early Adopter
+762	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years	Early Majority
+763	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+764	10-15 hours per week	$10,000-$15,000	Yes	2-3 years	Innovator
+765	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years	Early Adopter
+766	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+767	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years	Early Adopter
+768	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years	Early Majority
+769	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years	Early Majority
+770	10-15 hours per week	$10,000-$15,000	Yes	3-5 years	Early Majority
+771	10-15 hours per week	$5,000-$8,000	Yes	3-5 years	Early Adopter
+772	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years	Early Majority
+773	10-15 hours per week	$12,000-$15,000	Yes	1-2 years	Early Adopter
+774	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Innovator
+775	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+776	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible	Early Majority
+777	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years	Innovator
+778	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years	Innovator
+779	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+780	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+781	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible	Early Majority
+782	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+783	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years	Late Majority
+784	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Innovator
+785	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years	Early Majority
+786	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years	Early Adopter
+787	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years	Innovator
+788	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years	Innovator
+789	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible	Early Adopter
+790	5-10 hours per week (1 course)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+791	10-15 hours per week	$12,000-$15,000	No	2-3 years	Early Adopter
+792	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible	Early Majority
+793	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years	Early Adopter
+794	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+795	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years	Early Majority
+796	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible	Early Majority
+797	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years	Early Majority
+798	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Adopter
+799	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Majority
+800	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible	Early Majority

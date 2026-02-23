@@ -1,0 +1,801 @@
+ID	Profile	Age	Gender	Location	Current Role	Desired Field	Income Range	Education Level	Time Commitment	Adopter Category
+1	Working Professional Considering Graduate Degrees	52	Prefer not to say	Germany	Accountant	UX Design	$70k–$90k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+2	Working Professional Considering Graduate Degrees	50	Prefer not to say	India	Teacher	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+3	Career Changer / Adult Learner	38	Prefer not to say	India	Marketing Specialist	Public Policy	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+4	Working Professional Considering Graduate Degrees	40	Female	US	Software Engineer	Healthcare Administration	$90k–$120k	Master's	15-20 hours per week (2 courses)	Innovator
+5	Working Professional Considering Graduate Degrees	48	Non-binary	Australia	HR Coordinator	UX Design	$120k+	Associate	10-15 hours per week	Early Majority
+6	Career Changer / Adult Learner	31	Prefer not to say	US	Software Engineer	Cybersecurity	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+7	Working Professional Considering Graduate Degrees	41	Male	US	Technician	UX Design	$90k–$120k	Master's	15-20 hours per week (2 courses)	Innovator
+8	Working Professional Considering Graduate Degrees	55	Female	UK	Marketing Specialist	Data Science	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+9	Career Changer / Adult Learner	28	Non-binary	US	Marketing Specialist	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Innovator
+10	Career Changer / Adult Learner	43	Prefer not to say	India	Nurse	MBA	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+11	Career Changer / Adult Learner	43	Prefer not to say	US	HR Coordinator	Public Policy	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+12	Career Changer / Adult Learner	44	Non-binary	Germany	Technician	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+13	Working Professional Considering Graduate Degrees	43	Male	UK	Marketing Specialist	Cybersecurity	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+14	Career Changer / Adult Learner	54	Female	India	Accountant	MBA	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Majority
+15	Working Professional Considering Graduate Degrees	29	Male	UK	Sales Manager	Healthcare Administration	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+16	Career Changer / Adult Learner	52	Female	Australia	Sales Manager	MBA	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+17	Career Changer / Adult Learner	53	Prefer not to say	US	Technician	UX Design	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+18	Career Changer / Adult Learner	47	Prefer not to say	Canada	HR Coordinator	MBA	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+19	Career Changer / Adult Learner	29	Prefer not to say	India	Nurse	MBA	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+20	Working Professional Considering Graduate Degrees	43	Female	Germany	Accountant	Finance	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+21	Working Professional Considering Graduate Degrees	42	Male	Australia	Accountant	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+22	Career Changer / Adult Learner	34	Non-binary	India	Nurse	Data Science	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+23	Career Changer / Adult Learner	48	Non-binary	Canada	Nurse	Healthcare Administration	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+24	Career Changer / Adult Learner	53	Female	Germany	Nurse	MBA	$120k+	Bachelor's	5-10 hours per week (part-time)	Early Majority
+25	Working Professional Considering Graduate Degrees	48	Female	US	Teacher	UX Design	$120k+	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+26	Working Professional Considering Graduate Degrees	32	Male	Australia	Teacher	AI & Machine Learning	$70k–$90k	Master's	10-15 hours per week	Innovator
+27	Working Professional Considering Graduate Degrees	40	Prefer not to say	UK	HR Coordinator	MBA	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+28	Career Changer / Adult Learner	30	Male	Australia	Sales Manager	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+29	Career Changer / Adult Learner	48	Male	Germany	Sales Manager	Public Policy	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+30	Working Professional Considering Graduate Degrees	41	Male	Germany	Accountant	Healthcare Administration	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+31	Working Professional Considering Graduate Degrees	27	Male	Australia	Marketing Specialist	Cybersecurity	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+32	Working Professional Considering Graduate Degrees	28	Male	India	Sales Manager	UX Design	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Innovator
+33	Working Professional Considering Graduate Degrees	39	Prefer not to say	India	HR Coordinator	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+34	Working Professional Considering Graduate Degrees	39	Male	US	HR Coordinator	MBA	$90k–$120k	Associate	15-20 hours per week (2 courses)	Early Adopter
+35	Working Professional Considering Graduate Degrees	46	Non-binary	Germany	Marketing Specialist	Finance	$120k+	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+36	Working Professional Considering Graduate Degrees	25	Prefer not to say	Canada	Sales Manager	Data Science	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+37	Career Changer / Adult Learner	50	Prefer not to say	US	Technician	Finance	$70k–$90k	Associate	5-10 hours per week (part-time)	Early Majority
+38	Working Professional Considering Graduate Degrees	27	Male	Germany	Technician	MBA	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+39	Career Changer / Adult Learner	40	Non-binary	India	Software Engineer	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+40	Career Changer / Adult Learner	49	Non-binary	UK	Nurse	Finance	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+41	Working Professional Considering Graduate Degrees	47	Non-binary	UK	Technician	Healthcare Administration	$120k+	Some College	10-15 hours per week	Early Majority
+42	Career Changer / Adult Learner	42	Non-binary	Canada	Accountant	Cybersecurity	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+43	Career Changer / Adult Learner	25	Female	Germany	Marketing Specialist	Finance	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+44	Career Changer / Adult Learner	52	Female	Canada	Sales Manager	MBA	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+45	Career Changer / Adult Learner	40	Female	UK	Sales Manager	Public Policy	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+46	Career Changer / Adult Learner	46	Non-binary	US	Teacher	Cybersecurity	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+47	Working Professional Considering Graduate Degrees	55	Male	India	Marketing Specialist	MBA	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Majority
+48	Working Professional Considering Graduate Degrees	43	Male	Canada	HR Coordinator	Data Science	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+49	Working Professional Considering Graduate Degrees	46	Non-binary	Canada	Technician	Public Policy	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+50	Career Changer / Adult Learner	37	Non-binary	Canada	Marketing Specialist	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+51	Working Professional Considering Graduate Degrees	54	Female	India	Sales Manager	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+52	Career Changer / Adult Learner	52	Male	Canada	Nurse	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+53	Working Professional Considering Graduate Degrees	31	Male	US	Teacher	MBA	$120k+	Some College	15-20 hours per week (2 courses)	Early Adopter
+54	Working Professional Considering Graduate Degrees	40	Prefer not to say	Canada	Software Engineer	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+55	Career Changer / Adult Learner	51	Prefer not to say	Canada	Marketing Specialist	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+56	Career Changer / Adult Learner	32	Male	Canada	HR Coordinator	MBA	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+57	Career Changer / Adult Learner	49	Male	US	Teacher	Public Policy	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+58	Career Changer / Adult Learner	30	Male	Canada	Marketing Specialist	MBA	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+59	Career Changer / Adult Learner	37	Non-binary	UK	Accountant	UX Design	$90k–$120k	Some College	10-15 hours per week	Early Majority
+60	Career Changer / Adult Learner	49	Prefer not to say	India	Nurse	Public Policy	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+61	Career Changer / Adult Learner	48	Male	UK	Technician	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+62	Working Professional Considering Graduate Degrees	36	Female	Australia	Nurse	AI & Machine Learning	$120k+	Some College	10-15 hours per week	Early Majority
+63	Working Professional Considering Graduate Degrees	43	Female	UK	Marketing Specialist	MBA	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+64	Working Professional Considering Graduate Degrees	40	Female	Germany	HR Coordinator	MBA	$120k+	Some College	10-15 hours per week	Early Majority
+65	Working Professional Considering Graduate Degrees	47	Female	India	Software Engineer	Public Policy	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Majority
+66	Career Changer / Adult Learner	49	Non-binary	Germany	Sales Manager	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+67	Working Professional Considering Graduate Degrees	54	Female	UK	Technician	Cybersecurity	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+68	Career Changer / Adult Learner	53	Male	India	Accountant	UX Design	$90k–$120k	Some College	5-10 hours per week (1 course)	Late Majority
+69	Career Changer / Adult Learner	25	Female	US	Teacher	Healthcare Administration	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Innovator
+70	Working Professional Considering Graduate Degrees	35	Female	Germany	Accountant	Public Policy	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+71	Working Professional Considering Graduate Degrees	47	Prefer not to say	US	Accountant	MBA	$90k–$120k	Some College	10-15 hours per week	Early Majority
+72	Career Changer / Adult Learner	51	Non-binary	Australia	Technician	Healthcare Administration	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Adopter
+73	Working Professional Considering Graduate Degrees	29	Prefer not to say	Australia	Teacher	Finance	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+74	Career Changer / Adult Learner	47	Non-binary	UK	Nurse	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+75	Working Professional Considering Graduate Degrees	25	Prefer not to say	UK	Sales Manager	Data Science	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+76	Working Professional Considering Graduate Degrees	36	Non-binary	Australia	Software Engineer	Data Science	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+77	Career Changer / Adult Learner	43	Non-binary	Australia	Software Engineer	Data Science	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+78	Career Changer / Adult Learner	51	Prefer not to say	India	Nurse	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+79	Working Professional Considering Graduate Degrees	43	Male	US	HR Coordinator	Data Science	$90k–$120k	Master's	15-20 hours per week (2 courses)	Innovator
+80	Career Changer / Adult Learner	29	Male	Australia	Marketing Specialist	Data Science	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+81	Career Changer / Adult Learner	52	Prefer not to say	Germany	Technician	Public Policy	$70k–$90k	Some College	5-10 hours per week (1 course)	Early Majority
+82	Career Changer / Adult Learner	52	Non-binary	Australia	Teacher	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+83	Career Changer / Adult Learner	30	Non-binary	UK	Sales Manager	AI & Machine Learning	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+84	Working Professional Considering Graduate Degrees	53	Non-binary	US	Technician	Healthcare Administration	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+85	Working Professional Considering Graduate Degrees	42	Male	Germany	Sales Manager	UX Design	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+86	Working Professional Considering Graduate Degrees	28	Prefer not to say	UK	Teacher	MBA	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+87	Career Changer / Adult Learner	29	Prefer not to say	US	Sales Manager	Finance	$70k–$90k	Master's	10-15 hours per week	Innovator
+88	Working Professional Considering Graduate Degrees	38	Female	India	Marketing Specialist	Data Science	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+89	Career Changer / Adult Learner	27	Prefer not to say	India	Software Engineer	Finance	$70k–$90k	Master's	10-15 hours per week	Innovator
+90	Career Changer / Adult Learner	30	Female	India	Marketing Specialist	Public Policy	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+91	Career Changer / Adult Learner	48	Prefer not to say	UK	HR Coordinator	Finance	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+92	Working Professional Considering Graduate Degrees	30	Male	Germany	Sales Manager	Data Science	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+93	Career Changer / Adult Learner	47	Male	Australia	Accountant	Cybersecurity	$120k+	Associate	10-15 hours per week	Early Majority
+94	Career Changer / Adult Learner	35	Male	Germany	Marketing Specialist	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+95	Career Changer / Adult Learner	32	Non-binary	UK	Teacher	Public Policy	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Adopter
+96	Working Professional Considering Graduate Degrees	46	Non-binary	Australia	Accountant	UX Design	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+97	Working Professional Considering Graduate Degrees	42	Prefer not to say	India	Software Engineer	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+98	Career Changer / Adult Learner	31	Prefer not to say	UK	Sales Manager	Finance	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+99	Career Changer / Adult Learner	50	Prefer not to say	Canada	Teacher	Finance	$90k–$120k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+100	Working Professional Considering Graduate Degrees	55	Female	Canada	Technician	Healthcare Administration	$70k–$90k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+101	Working Professional Considering Graduate Degrees	54	Non-binary	Australia	Sales Manager	AI & Machine Learning	$90k–$120k	Some College	5-10 hours per week (1 course)	Late Majority
+102	Career Changer / Adult Learner	43	Male	Australia	Marketing Specialist	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+103	Career Changer / Adult Learner	42	Prefer not to say	UK	Sales Manager	Healthcare Administration	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+104	Working Professional Considering Graduate Degrees	31	Male	UK	Software Engineer	UX Design	$70k–$90k	Master's	10-15 hours per week	Innovator
+105	Career Changer / Adult Learner	39	Female	Canada	Teacher	Public Policy	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+106	Working Professional Considering Graduate Degrees	40	Male	US	Teacher	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+107	Working Professional Considering Graduate Degrees	35	Male	UK	Technician	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+108	Working Professional Considering Graduate Degrees	32	Prefer not to say	US	Software Engineer	Data Science	$30k–$50k	Master's	5-10 hours per week (part-time)	Innovator
+109	Career Changer / Adult Learner	31	Non-binary	US	Technician	AI & Machine Learning	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+110	Working Professional Considering Graduate Degrees	24	Prefer not to say	US	HR Coordinator	Public Policy	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+111	Career Changer / Adult Learner	31	Male	Australia	Accountant	Finance	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+112	Working Professional Considering Graduate Degrees	45	Prefer not to say	India	Nurse	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+113	Career Changer / Adult Learner	36	Female	US	Software Engineer	Healthcare Administration	$90k–$120k	Associate	15-20 hours per week (2 courses)	Early Adopter
+114	Career Changer / Adult Learner	29	Prefer not to say	India	HR Coordinator	MBA	$90k–$120k	Bachelor's	10-15 hours per week	Innovator
+115	Career Changer / Adult Learner	53	Prefer not to say	Germany	Software Engineer	MBA	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+116	Working Professional Considering Graduate Degrees	31	Prefer not to say	UK	Nurse	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+117	Career Changer / Adult Learner	55	Non-binary	UK	Marketing Specialist	UX Design	$70k–$90k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+118	Working Professional Considering Graduate Degrees	38	Prefer not to say	Canada	Teacher	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+119	Working Professional Considering Graduate Degrees	49	Non-binary	Germany	Marketing Specialist	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+120	Working Professional Considering Graduate Degrees	27	Female	UK	Accountant	Data Science	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+121	Working Professional Considering Graduate Degrees	48	Male	Canada	Sales Manager	UX Design	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+122	Working Professional Considering Graduate Degrees	26	Non-binary	US	Accountant	Data Science	$90k–$120k	Bachelor's	20+ hours per week (full-time)	Innovator
+123	Working Professional Considering Graduate Degrees	42	Non-binary	Germany	HR Coordinator	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week	Early Majority
+124	Career Changer / Adult Learner	54	Non-binary	UK	Accountant	UX Design	$50k–$70k	Some College	5-10 hours per week (part-time)	Late Majority
+125	Career Changer / Adult Learner	32	Non-binary	Canada	Software Engineer	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+126	Working Professional Considering Graduate Degrees	45	Non-binary	Canada	Teacher	UX Design	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+127	Career Changer / Adult Learner	24	Male	Australia	Teacher	Data Science	$70k–$90k	Associate	10-15 hours per week	Innovator
+128	Career Changer / Adult Learner	54	Female	UK	HR Coordinator	Cybersecurity	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+129	Working Professional Considering Graduate Degrees	47	Prefer not to say	India	Technician	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+130	Career Changer / Adult Learner	30	Female	Canada	Accountant	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+131	Working Professional Considering Graduate Degrees	36	Prefer not to say	Germany	Nurse	Cybersecurity	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+132	Working Professional Considering Graduate Degrees	36	Female	Canada	Nurse	UX Design	$120k+	Some College	10-15 hours per week	Early Majority
+133	Career Changer / Adult Learner	50	Male	Australia	Technician	Cybersecurity	$70k–$90k	Associate	5-10 hours per week (1 course)	Early Majority
+134	Career Changer / Adult Learner	38	Female	UK	HR Coordinator	Finance	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+135	Career Changer / Adult Learner	29	Non-binary	India	Software Engineer	Finance	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+136	Working Professional Considering Graduate Degrees	44	Female	India	Teacher	Cybersecurity	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+137	Career Changer / Adult Learner	40	Male	Germany	HR Coordinator	Data Science	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+138	Working Professional Considering Graduate Degrees	49	Prefer not to say	Australia	Technician	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+139	Working Professional Considering Graduate Degrees	36	Male	US	Software Engineer	Public Policy	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+140	Working Professional Considering Graduate Degrees	52	Non-binary	Germany	Sales Manager	UX Design	$70k–$90k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+141	Career Changer / Adult Learner	30	Female	US	Technician	Finance	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+142	Career Changer / Adult Learner	30	Prefer not to say	Canada	Technician	UX Design	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+143	Working Professional Considering Graduate Degrees	40	Female	Canada	Technician	UX Design	$90k–$120k	Some College	10-15 hours per week	Early Majority
+144	Career Changer / Adult Learner	31	Prefer not to say	Germany	Sales Manager	Finance	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+145	Working Professional Considering Graduate Degrees	53	Male	US	Technician	Public Policy	$90k–$120k	Master's	5-10 hours per week (part-time)	Early Majority
+146	Working Professional Considering Graduate Degrees	47	Male	Canada	Teacher	Finance	$120k+	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+147	Working Professional Considering Graduate Degrees	24	Non-binary	Canada	HR Coordinator	Data Science	$90k–$120k	Master's	10-15 hours per week	Innovator
+148	Career Changer / Adult Learner	25	Prefer not to say	Germany	Marketing Specialist	Data Science	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Adopter
+149	Working Professional Considering Graduate Degrees	25	Female	Germany	Teacher	UX Design	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+150	Working Professional Considering Graduate Degrees	49	Non-binary	India	Technician	MBA	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+151	Working Professional Considering Graduate Degrees	24	Female	US	Nurse	Finance	$120k+	Some College	15-20 hours per week (2 courses)	Innovator
+152	Career Changer / Adult Learner	50	Male	UK	Software Engineer	UX Design	$120k+	Bachelor's	5-10 hours per week (1 course)	Early Majority
+153	Working Professional Considering Graduate Degrees	25	Female	Canada	HR Coordinator	Cybersecurity	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+154	Career Changer / Adult Learner	46	Male	US	Sales Manager	Cybersecurity	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Majority
+155	Working Professional Considering Graduate Degrees	44	Prefer not to say	Australia	Nurse	MBA	$90k–$120k	Master's	10-15 hours per week	Innovator
+156	Working Professional Considering Graduate Degrees	31	Female	UK	Sales Manager	Finance	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+157	Career Changer / Adult Learner	47	Non-binary	Australia	Nurse	Public Policy	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+158	Working Professional Considering Graduate Degrees	54	Non-binary	Australia	Nurse	Healthcare Administration	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+159	Working Professional Considering Graduate Degrees	49	Male	UK	Sales Manager	Finance	$90k–$120k	Associate	10-15 hours per week	Early Majority
+160	Career Changer / Adult Learner	55	Non-binary	UK	Teacher	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Late Majority
+161	Working Professional Considering Graduate Degrees	45	Non-binary	Australia	HR Coordinator	UX Design	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+162	Working Professional Considering Graduate Degrees	30	Prefer not to say	Australia	Technician	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+163	Working Professional Considering Graduate Degrees	49	Non-binary	Australia	Nurse	Data Science	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+164	Working Professional Considering Graduate Degrees	40	Non-binary	Australia	Technician	Data Science	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+165	Working Professional Considering Graduate Degrees	47	Female	US	Teacher	UX Design	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+166	Career Changer / Adult Learner	40	Non-binary	UK	Software Engineer	Data Science	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+167	Career Changer / Adult Learner	44	Non-binary	India	Sales Manager	AI & Machine Learning	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+168	Career Changer / Adult Learner	50	Prefer not to say	Germany	Software Engineer	Data Science	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+169	Career Changer / Adult Learner	26	Prefer not to say	US	Accountant	MBA	$90k–$120k	Bachelor's	20+ hours per week (full-time)	Innovator
+170	Working Professional Considering Graduate Degrees	48	Non-binary	Canada	Software Engineer	Public Policy	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Majority
+171	Working Professional Considering Graduate Degrees	43	Non-binary	India	Nurse	Finance	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+172	Working Professional Considering Graduate Degrees	43	Male	India	Nurse	Finance	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+173	Career Changer / Adult Learner	47	Male	India	Nurse	Healthcare Administration	$70k–$90k	Associate	10-15 hours per week	Early Majority
+174	Working Professional Considering Graduate Degrees	24	Male	Germany	Sales Manager	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Innovator
+175	Career Changer / Adult Learner	35	Non-binary	US	Nurse	Public Policy	$120k+	Bachelor's	20+ hours per week (full-time)	Innovator
+176	Working Professional Considering Graduate Degrees	50	Female	US	Software Engineer	Healthcare Administration	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+177	Working Professional Considering Graduate Degrees	51	Female	US	Nurse	Cybersecurity	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+178	Working Professional Considering Graduate Degrees	33	Non-binary	India	Technician	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+179	Working Professional Considering Graduate Degrees	53	Non-binary	India	Sales Manager	UX Design	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+180	Career Changer / Adult Learner	54	Male	Germany	HR Coordinator	Healthcare Administration	$90k–$120k	Some College	5-10 hours per week (part-time)	Late Majority
+181	Career Changer / Adult Learner	55	Prefer not to say	Canada	Marketing Specialist	UX Design	$120k+	Associate	5-10 hours per week (part-time)	Early Majority
+182	Career Changer / Adult Learner	36	Prefer not to say	India	Sales Manager	Data Science	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+183	Working Professional Considering Graduate Degrees	27	Prefer not to say	Germany	Teacher	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+184	Working Professional Considering Graduate Degrees	52	Prefer not to say	Germany	Nurse	MBA	$120k+	Master's	5-10 hours per week (part-time)	Early Adopter
+185	Career Changer / Adult Learner	45	Male	Germany	Teacher	Public Policy	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+186	Career Changer / Adult Learner	39	Male	Germany	Technician	UX Design	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+187	Career Changer / Adult Learner	52	Male	Germany	Accountant	UX Design	$90k–$120k	Associate	5-10 hours per week (part-time)	Early Majority
+188	Working Professional Considering Graduate Degrees	34	Non-binary	Germany	Teacher	Healthcare Administration	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+189	Career Changer / Adult Learner	33	Prefer not to say	Germany	Accountant	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+190	Career Changer / Adult Learner	27	Female	Germany	Teacher	UX Design	$120k+	Bachelor's	10-15 hours per week	Innovator
+191	Career Changer / Adult Learner	46	Non-binary	UK	HR Coordinator	Public Policy	$90k–$120k	Some College	10-15 hours per week	Early Majority
+192	Career Changer / Adult Learner	36	Female	Germany	HR Coordinator	MBA	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+193	Working Professional Considering Graduate Degrees	36	Non-binary	Australia	Sales Manager	Cybersecurity	$120k+	Associate	10-15 hours per week	Early Adopter
+194	Career Changer / Adult Learner	44	Female	Australia	HR Coordinator	UX Design	$120k+	Associate	10-15 hours per week	Early Adopter
+195	Career Changer / Adult Learner	52	Prefer not to say	US	Teacher	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+196	Working Professional Considering Graduate Degrees	24	Female	Australia	Software Engineer	MBA	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Adopter
+197	Career Changer / Adult Learner	51	Female	India	Software Engineer	Finance	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+198	Career Changer / Adult Learner	28	Non-binary	Australia	Teacher	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Innovator
+199	Career Changer / Adult Learner	36	Non-binary	US	Accountant	AI & Machine Learning	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+200	Working Professional Considering Graduate Degrees	39	Non-binary	India	Software Engineer	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+201	Career Changer / Adult Learner	42	Female	Germany	Accountant	Public Policy	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+202	Working Professional Considering Graduate Degrees	28	Non-binary	India	HR Coordinator	Finance	$70k–$90k	Master's	10-15 hours per week	Innovator
+203	Career Changer / Adult Learner	31	Female	US	HR Coordinator	UX Design	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+204	Working Professional Considering Graduate Degrees	49	Female	Germany	Accountant	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+205	Working Professional Considering Graduate Degrees	24	Prefer not to say	Canada	Marketing Specialist	Data Science	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+206	Working Professional Considering Graduate Degrees	33	Male	UK	HR Coordinator	UX Design	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+207	Working Professional Considering Graduate Degrees	37	Female	Canada	Nurse	MBA	$70k–$90k	Master's	10-15 hours per week	Innovator
+208	Career Changer / Adult Learner	37	Male	India	Sales Manager	Finance	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+209	Career Changer / Adult Learner	41	Non-binary	Australia	Accountant	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+210	Career Changer / Adult Learner	54	Non-binary	Australia	Marketing Specialist	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (part-time)	Late Majority
+211	Career Changer / Adult Learner	36	Prefer not to say	UK	Nurse	Public Policy	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+212	Career Changer / Adult Learner	38	Non-binary	Germany	Technician	AI & Machine Learning	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+213	Career Changer / Adult Learner	52	Female	India	Teacher	Data Science	$120k+	Some College	5-10 hours per week (part-time)	Early Majority
+214	Working Professional Considering Graduate Degrees	44	Female	UK	Accountant	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+215	Working Professional Considering Graduate Degrees	45	Non-binary	US	Accountant	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+216	Working Professional Considering Graduate Degrees	55	Prefer not to say	UK	Sales Manager	UX Design	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+217	Career Changer / Adult Learner	55	Prefer not to say	Germany	Marketing Specialist	Data Science	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+218	Career Changer / Adult Learner	52	Male	India	Sales Manager	Cybersecurity	$70k–$90k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+219	Career Changer / Adult Learner	32	Female	Australia	Technician	Healthcare Administration	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+220	Working Professional Considering Graduate Degrees	42	Non-binary	Canada	Teacher	MBA	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+221	Working Professional Considering Graduate Degrees	46	Male	Canada	Nurse	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+222	Working Professional Considering Graduate Degrees	29	Male	UK	Technician	Data Science	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Adopter
+223	Career Changer / Adult Learner	25	Female	US	Sales Manager	Data Science	$90k–$120k	Some College	20+ hours per week (full-time)	Innovator
+224	Working Professional Considering Graduate Degrees	37	Non-binary	Canada	Marketing Specialist	Finance	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+225	Career Changer / Adult Learner	52	Male	Australia	Technician	MBA	$90k–$120k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+226	Career Changer / Adult Learner	51	Male	US	Nurse	UX Design	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Adopter
+227	Career Changer / Adult Learner	51	Female	UK	HR Coordinator	Public Policy	$120k+	Bachelor's	5-10 hours per week (part-time)	Early Majority
+228	Career Changer / Adult Learner	41	Prefer not to say	UK	Teacher	Public Policy	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+229	Career Changer / Adult Learner	48	Prefer not to say	Australia	Nurse	UX Design	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+230	Career Changer / Adult Learner	42	Prefer not to say	UK	Nurse	AI & Machine Learning	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+231	Career Changer / Adult Learner	41	Female	India	Sales Manager	UX Design	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+232	Career Changer / Adult Learner	43	Non-binary	Australia	Nurse	Data Science	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+233	Career Changer / Adult Learner	34	Non-binary	Germany	Sales Manager	MBA	$120k+	Master's	10-15 hours per week	Innovator
+234	Career Changer / Adult Learner	38	Female	India	Technician	UX Design	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+235	Working Professional Considering Graduate Degrees	52	Non-binary	India	Technician	Finance	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+236	Working Professional Considering Graduate Degrees	47	Female	US	Sales Manager	Cybersecurity	$120k+	Master's	10-15 hours per week	Early Adopter
+237	Working Professional Considering Graduate Degrees	37	Non-binary	US	Accountant	Data Science	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+238	Working Professional Considering Graduate Degrees	26	Prefer not to say	Canada	Sales Manager	Cybersecurity	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+239	Working Professional Considering Graduate Degrees	53	Male	India	Technician	Healthcare Administration	$70k–$90k	Some College	5-10 hours per week (part-time)	Late Majority
+240	Career Changer / Adult Learner	24	Female	Germany	Sales Manager	Healthcare Administration	$70k–$90k	Bachelor's	10-15 hours per week	Innovator
+241	Career Changer / Adult Learner	40	Prefer not to say	Germany	Accountant	MBA	$70k–$90k	Some College	10-15 hours per week	Early Majority
+242	Career Changer / Adult Learner	35	Male	Australia	Technician	Cybersecurity	$30k–$50k	Master's	5-10 hours per week (part-time)	Innovator
+243	Working Professional Considering Graduate Degrees	47	Non-binary	India	Software Engineer	UX Design	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+244	Working Professional Considering Graduate Degrees	40	Male	Canada	Software Engineer	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+245	Working Professional Considering Graduate Degrees	36	Non-binary	Germany	Nurse	Cybersecurity	$120k+	Associate	10-15 hours per week	Early Adopter
+246	Career Changer / Adult Learner	47	Female	India	HR Coordinator	MBA	$70k–$90k	Master's	10-15 hours per week	Early Adopter
+247	Career Changer / Adult Learner	43	Female	UK	Marketing Specialist	Healthcare Administration	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+248	Career Changer / Adult Learner	41	Non-binary	India	Software Engineer	Healthcare Administration	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+249	Working Professional Considering Graduate Degrees	44	Non-binary	India	Technician	Data Science	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+250	Working Professional Considering Graduate Degrees	50	Non-binary	Australia	Teacher	AI & Machine Learning	$120k+	Bachelor's	5-10 hours per week (part-time)	Early Majority
+251	Career Changer / Adult Learner	38	Female	India	Software Engineer	UX Design	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+252	Career Changer / Adult Learner	37	Prefer not to say	Canada	Technician	Data Science	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+253	Working Professional Considering Graduate Degrees	43	Female	Australia	Teacher	Data Science	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+254	Career Changer / Adult Learner	52	Non-binary	Canada	Technician	Healthcare Administration	$70k–$90k	Master's	5-10 hours per week (part-time)	Early Adopter
+255	Working Professional Considering Graduate Degrees	24	Male	US	Marketing Specialist	UX Design	$120k+	Associate	20+ hours per week (full-time)	Innovator
+256	Career Changer / Adult Learner	47	Male	Germany	HR Coordinator	UX Design	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+257	Working Professional Considering Graduate Degrees	40	Non-binary	India	HR Coordinator	Public Policy	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+258	Career Changer / Adult Learner	42	Female	India	Teacher	Public Policy	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+259	Working Professional Considering Graduate Degrees	43	Male	Australia	Technician	Cybersecurity	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+260	Working Professional Considering Graduate Degrees	42	Male	Germany	Sales Manager	Finance	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+261	Career Changer / Adult Learner	26	Prefer not to say	Germany	Nurse	MBA	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+262	Career Changer / Adult Learner	28	Prefer not to say	US	Sales Manager	Cybersecurity	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+263	Career Changer / Adult Learner	36	Non-binary	Germany	Nurse	Data Science	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+264	Career Changer / Adult Learner	37	Male	Germany	Technician	UX Design	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+265	Working Professional Considering Graduate Degrees	37	Prefer not to say	Canada	Marketing Specialist	AI & Machine Learning	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+266	Career Changer / Adult Learner	33	Prefer not to say	US	HR Coordinator	Finance	$90k–$120k	Some College	20+ hours per week (full-time)	Early Adopter
+267	Working Professional Considering Graduate Degrees	44	Female	Australia	HR Coordinator	UX Design	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+268	Career Changer / Adult Learner	52	Non-binary	US	Nurse	Finance	$120k+	Master's	5-10 hours per week (1 course)	Early Adopter
+269	Working Professional Considering Graduate Degrees	25	Prefer not to say	India	Nurse	Healthcare Administration	$90k–$120k	Bachelor's	10-15 hours per week	Innovator
+270	Working Professional Considering Graduate Degrees	48	Male	India	Technician	Finance	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Majority
+271	Career Changer / Adult Learner	30	Female	Australia	Marketing Specialist	Healthcare Administration	$90k–$120k	Master's	10-15 hours per week	Innovator
+272	Career Changer / Adult Learner	52	Male	India	Nurse	Data Science	$70k–$90k	Associate	5-10 hours per week (1 course)	Early Majority
+273	Working Professional Considering Graduate Degrees	28	Female	Germany	Sales Manager	Cybersecurity	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+274	Career Changer / Adult Learner	40	Female	India	Accountant	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+275	Career Changer / Adult Learner	38	Female	India	Teacher	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+276	Career Changer / Adult Learner	25	Female	India	Teacher	Finance	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+277	Career Changer / Adult Learner	34	Non-binary	India	HR Coordinator	Healthcare Administration	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+278	Working Professional Considering Graduate Degrees	35	Non-binary	UK	Software Engineer	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+279	Working Professional Considering Graduate Degrees	53	Female	US	Marketing Specialist	Healthcare Administration	$120k+	Master's	5-10 hours per week (part-time)	Early Majority
+280	Career Changer / Adult Learner	50	Female	India	Teacher	Cybersecurity	$90k–$120k	Some College	5-10 hours per week (part-time)	Early Majority
+281	Career Changer / Adult Learner	38	Prefer not to say	Germany	Technician	Healthcare Administration	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+282	Working Professional Considering Graduate Degrees	25	Female	UK	Teacher	Cybersecurity	$120k+	Bachelor's	10-15 hours per week	Innovator
+283	Career Changer / Adult Learner	43	Female	India	HR Coordinator	Data Science	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+284	Working Professional Considering Graduate Degrees	52	Non-binary	US	Software Engineer	UX Design	$90k–$120k	Master's	5-10 hours per week (part-time)	Early Adopter
+285	Career Changer / Adult Learner	36	Female	Canada	Teacher	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+286	Career Changer / Adult Learner	53	Prefer not to say	India	Marketing Specialist	Healthcare Administration	$120k+	Some College	5-10 hours per week (1 course)	Late Majority
+287	Working Professional Considering Graduate Degrees	42	Male	India	Technician	UX Design	$120k+	Some College	10-15 hours per week	Early Majority
+288	Career Changer / Adult Learner	24	Male	UK	Accountant	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+289	Career Changer / Adult Learner	32	Female	Canada	Sales Manager	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+290	Career Changer / Adult Learner	44	Male	UK	Accountant	Healthcare Administration	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+291	Career Changer / Adult Learner	38	Non-binary	Australia	Software Engineer	Finance	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+292	Working Professional Considering Graduate Degrees	41	Prefer not to say	Germany	Sales Manager	Cybersecurity	$70k–$90k	Some College	10-15 hours per week	Early Majority
+293	Career Changer / Adult Learner	24	Male	UK	Technician	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Innovator
+294	Working Professional Considering Graduate Degrees	45	Male	Australia	HR Coordinator	Public Policy	$120k+	Some College	10-15 hours per week	Early Majority
+295	Career Changer / Adult Learner	42	Male	UK	Software Engineer	Healthcare Administration	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+296	Career Changer / Adult Learner	39	Prefer not to say	Canada	HR Coordinator	UX Design	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+297	Working Professional Considering Graduate Degrees	32	Non-binary	Canada	Nurse	AI & Machine Learning	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+298	Career Changer / Adult Learner	37	Non-binary	Australia	Sales Manager	AI & Machine Learning	$90k–$120k	Some College	10-15 hours per week	Early Majority
+299	Working Professional Considering Graduate Degrees	34	Female	UK	Teacher	UX Design	$120k+	Master's	10-15 hours per week	Innovator
+300	Career Changer / Adult Learner	52	Male	Canada	Technician	Healthcare Administration	$90k–$120k	Some College	5-10 hours per week (part-time)	Early Majority
+301	Working Professional Considering Graduate Degrees	37	Male	US	HR Coordinator	Finance	$120k+	Some College	15-20 hours per week (2 courses)	Early Adopter
+302	Working Professional Considering Graduate Degrees	33	Male	India	Teacher	Data Science	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+303	Working Professional Considering Graduate Degrees	35	Male	Australia	HR Coordinator	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+304	Working Professional Considering Graduate Degrees	34	Non-binary	Canada	Accountant	AI & Machine Learning	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+305	Working Professional Considering Graduate Degrees	42	Prefer not to say	Australia	Software Engineer	Cybersecurity	$90k–$120k	Master's	10-15 hours per week	Innovator
+306	Working Professional Considering Graduate Degrees	37	Non-binary	Canada	Sales Manager	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+307	Working Professional Considering Graduate Degrees	29	Prefer not to say	US	HR Coordinator	UX Design	$120k+	Associate	20+ hours per week (full-time)	Innovator
+308	Career Changer / Adult Learner	33	Prefer not to say	Canada	Software Engineer	Cybersecurity	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+309	Career Changer / Adult Learner	40	Female	Canada	Marketing Specialist	Data Science	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+310	Career Changer / Adult Learner	47	Male	UK	HR Coordinator	Data Science	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+311	Career Changer / Adult Learner	40	Non-binary	Germany	Nurse	Finance	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+312	Working Professional Considering Graduate Degrees	29	Prefer not to say	UK	Software Engineer	Healthcare Administration	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+313	Working Professional Considering Graduate Degrees	24	Prefer not to say	Canada	Software Engineer	Public Policy	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+314	Career Changer / Adult Learner	44	Male	US	Marketing Specialist	Data Science	$120k+	Associate	20+ hours per week (full-time)	Early Adopter
+315	Career Changer / Adult Learner	38	Non-binary	Canada	Technician	Healthcare Administration	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+316	Working Professional Considering Graduate Degrees	43	Prefer not to say	Canada	Sales Manager	Data Science	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+317	Career Changer / Adult Learner	44	Female	India	Nurse	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+318	Career Changer / Adult Learner	41	Male	Australia	Teacher	Finance	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+319	Career Changer / Adult Learner	50	Non-binary	India	Teacher	Finance	$120k+	Associate	5-10 hours per week (part-time)	Early Majority
+320	Working Professional Considering Graduate Degrees	54	Non-binary	Australia	Technician	UX Design	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+321	Working Professional Considering Graduate Degrees	55	Male	India	Sales Manager	UX Design	$30k–$50k	Some College	5-10 hours per week (1 course)	Late Majority
+322	Career Changer / Adult Learner	27	Prefer not to say	UK	Nurse	Public Policy	$120k+	Associate	10-15 hours per week (1-2 courses)	Innovator
+323	Career Changer / Adult Learner	27	Male	India	Technician	MBA	$120k+	Master's	10-15 hours per week	Innovator
+324	Career Changer / Adult Learner	46	Non-binary	Canada	Nurse	Healthcare Administration	$120k+	Master's	10-15 hours per week	Early Adopter
+325	Career Changer / Adult Learner	44	Male	Australia	Nurse	Finance	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+326	Career Changer / Adult Learner	31	Male	UK	Accountant	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+327	Working Professional Considering Graduate Degrees	48	Female	Germany	Accountant	Cybersecurity	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+328	Career Changer / Adult Learner	44	Non-binary	Australia	Sales Manager	AI & Machine Learning	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+329	Career Changer / Adult Learner	47	Female	US	Sales Manager	Data Science	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+330	Career Changer / Adult Learner	31	Non-binary	Australia	Sales Manager	Public Policy	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+331	Working Professional Considering Graduate Degrees	50	Non-binary	US	Technician	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+332	Career Changer / Adult Learner	33	Non-binary	US	Marketing Specialist	Public Policy	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+333	Working Professional Considering Graduate Degrees	52	Prefer not to say	Germany	HR Coordinator	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+334	Career Changer / Adult Learner	49	Male	Australia	Nurse	Healthcare Administration	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+335	Working Professional Considering Graduate Degrees	26	Non-binary	US	Technician	AI & Machine Learning	$90k–$120k	Associate	20+ hours per week (full-time)	Innovator
+336	Career Changer / Adult Learner	36	Non-binary	US	Accountant	MBA	$120k+	Associate	20+ hours per week (full-time)	Early Adopter
+337	Career Changer / Adult Learner	45	Prefer not to say	Germany	Nurse	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+338	Working Professional Considering Graduate Degrees	36	Female	Germany	Teacher	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+339	Working Professional Considering Graduate Degrees	50	Female	Canada	Sales Manager	Data Science	$120k+	Some College	5-10 hours per week (1 course)	Early Majority
+340	Working Professional Considering Graduate Degrees	50	Non-binary	UK	Nurse	Cybersecurity	$120k+	Some College	5-10 hours per week (1 course)	Early Majority
+341	Working Professional Considering Graduate Degrees	28	Non-binary	India	Marketing Specialist	Healthcare Administration	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Adopter
+342	Working Professional Considering Graduate Degrees	24	Non-binary	Canada	Software Engineer	Public Policy	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Adopter
+343	Career Changer / Adult Learner	54	Male	US	HR Coordinator	MBA	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Majority
+344	Career Changer / Adult Learner	51	Female	Germany	Technician	Public Policy	$90k–$120k	Associate	5-10 hours per week (part-time)	Early Majority
+345	Career Changer / Adult Learner	46	Non-binary	Canada	HR Coordinator	Healthcare Administration	$90k–$120k	Master's	10-15 hours per week	Early Adopter
+346	Working Professional Considering Graduate Degrees	35	Prefer not to say	UK	Accountant	Data Science	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+347	Career Changer / Adult Learner	42	Female	Canada	Marketing Specialist	Healthcare Administration	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+348	Career Changer / Adult Learner	54	Female	Canada	Accountant	AI & Machine Learning	$120k+	Some College	5-10 hours per week (1 course)	Late Majority
+349	Working Professional Considering Graduate Degrees	51	Female	Canada	HR Coordinator	AI & Machine Learning	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+350	Career Changer / Adult Learner	50	Female	Canada	Nurse	Data Science	$70k–$90k	Associate	5-10 hours per week (part-time)	Early Majority
+351	Working Professional Considering Graduate Degrees	33	Prefer not to say	India	Technician	Finance	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+352	Career Changer / Adult Learner	52	Non-binary	Germany	Teacher	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+353	Career Changer / Adult Learner	47	Non-binary	US	HR Coordinator	Data Science	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+354	Career Changer / Adult Learner	53	Female	US	Accountant	Cybersecurity	$120k+	Master's	5-10 hours per week (1 course)	Early Majority
+355	Career Changer / Adult Learner	32	Female	US	Nurse	Data Science	$70k–$90k	Master's	10-15 hours per week	Innovator
+356	Career Changer / Adult Learner	26	Prefer not to say	Canada	Technician	MBA	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+357	Career Changer / Adult Learner	25	Female	India	HR Coordinator	Finance	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Adopter
+358	Working Professional Considering Graduate Degrees	50	Female	US	Marketing Specialist	Finance	$120k+	Some College	5-10 hours per week (part-time)	Early Majority
+359	Working Professional Considering Graduate Degrees	31	Non-binary	UK	HR Coordinator	Data Science	$120k+	Associate	10-15 hours per week	Early Adopter
+360	Working Professional Considering Graduate Degrees	48	Female	Germany	Accountant	AI & Machine Learning	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Majority
+361	Career Changer / Adult Learner	47	Prefer not to say	UK	Teacher	Public Policy	$90k–$120k	Master's	10-15 hours per week	Early Adopter
+362	Working Professional Considering Graduate Degrees	41	Male	Germany	Teacher	Data Science	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+363	Working Professional Considering Graduate Degrees	51	Non-binary	Canada	Marketing Specialist	Cybersecurity	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+364	Working Professional Considering Graduate Degrees	25	Male	UK	Software Engineer	MBA	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Innovator
+365	Career Changer / Adult Learner	28	Non-binary	UK	HR Coordinator	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+366	Career Changer / Adult Learner	54	Prefer not to say	Germany	Nurse	Public Policy	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+367	Working Professional Considering Graduate Degrees	38	Male	Australia	Accountant	Healthcare Administration	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+368	Career Changer / Adult Learner	55	Female	Australia	Nurse	Finance	$120k+	Bachelor's	5-10 hours per week (part-time)	Early Majority
+369	Working Professional Considering Graduate Degrees	49	Prefer not to say	Canada	Marketing Specialist	Finance	$70k–$90k	Master's	10-15 hours per week	Early Adopter
+370	Working Professional Considering Graduate Degrees	32	Female	Germany	Technician	Healthcare Administration	$120k+	Bachelor's	10-15 hours per week	Innovator
+371	Career Changer / Adult Learner	47	Male	Canada	Teacher	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+372	Career Changer / Adult Learner	46	Prefer not to say	US	HR Coordinator	Public Policy	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+373	Career Changer / Adult Learner	29	Female	Germany	HR Coordinator	UX Design	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+374	Career Changer / Adult Learner	29	Prefer not to say	US	Nurse	AI & Machine Learning	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+375	Working Professional Considering Graduate Degrees	31	Female	US	Teacher	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+376	Working Professional Considering Graduate Degrees	44	Female	Canada	HR Coordinator	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+377	Working Professional Considering Graduate Degrees	31	Prefer not to say	Australia	Accountant	AI & Machine Learning	$90k–$120k	Bachelor's	10-15 hours per week	Innovator
+378	Career Changer / Adult Learner	37	Male	UK	Technician	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+379	Working Professional Considering Graduate Degrees	29	Non-binary	Australia	Marketing Specialist	MBA	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+380	Career Changer / Adult Learner	24	Prefer not to say	Australia	Marketing Specialist	Finance	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+381	Working Professional Considering Graduate Degrees	24	Non-binary	UK	HR Coordinator	UX Design	$120k+	Associate	10-15 hours per week (1-2 courses)	Innovator
+382	Career Changer / Adult Learner	41	Male	UK	Teacher	Data Science	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+383	Working Professional Considering Graduate Degrees	49	Prefer not to say	US	Accountant	Finance	$120k+	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+384	Working Professional Considering Graduate Degrees	25	Non-binary	India	Marketing Specialist	UX Design	$30k–$50k	Master's	5-10 hours per week (part-time)	Innovator
+385	Working Professional Considering Graduate Degrees	45	Prefer not to say	UK	Teacher	Finance	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+386	Career Changer / Adult Learner	46	Non-binary	US	Nurse	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+387	Career Changer / Adult Learner	31	Female	Canada	Marketing Specialist	Data Science	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+388	Working Professional Considering Graduate Degrees	31	Male	Canada	Sales Manager	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+389	Working Professional Considering Graduate Degrees	51	Male	US	HR Coordinator	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+390	Working Professional Considering Graduate Degrees	50	Male	Canada	Marketing Specialist	MBA	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+391	Career Changer / Adult Learner	27	Female	UK	Teacher	Healthcare Administration	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Innovator
+392	Career Changer / Adult Learner	38	Male	Germany	HR Coordinator	Finance	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+393	Career Changer / Adult Learner	50	Prefer not to say	Australia	Software Engineer	Cybersecurity	$120k+	Some College	5-10 hours per week (part-time)	Early Majority
+394	Working Professional Considering Graduate Degrees	25	Male	India	Accountant	Data Science	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Adopter
+395	Career Changer / Adult Learner	33	Male	India	HR Coordinator	Public Policy	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+396	Working Professional Considering Graduate Degrees	41	Non-binary	US	Accountant	Data Science	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+397	Working Professional Considering Graduate Degrees	41	Female	US	HR Coordinator	Public Policy	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+398	Career Changer / Adult Learner	37	Male	Canada	Technician	MBA	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+399	Career Changer / Adult Learner	54	Non-binary	Germany	Teacher	MBA	$120k+	Some College	5-10 hours per week (1 course)	Late Majority
+400	Working Professional Considering Graduate Degrees	43	Male	India	Nurse	Healthcare Administration	$90k–$120k	Some College	10-15 hours per week	Early Majority
+401	Working Professional Considering Graduate Degrees	48	Male	US	Sales Manager	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+402	Career Changer / Adult Learner	38	Male	Australia	Nurse	Finance	$120k+	Master's	10-15 hours per week	Innovator
+403	Career Changer / Adult Learner	36	Prefer not to say	Canada	Marketing Specialist	AI & Machine Learning	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+404	Working Professional Considering Graduate Degrees	47	Non-binary	India	Sales Manager	MBA	$70k–$90k	Master's	10-15 hours per week	Early Adopter
+405	Career Changer / Adult Learner	28	Prefer not to say	Germany	Technician	UX Design	$120k+	Associate	10-15 hours per week	Innovator
+406	Career Changer / Adult Learner	28	Prefer not to say	Germany	Accountant	AI & Machine Learning	$70k–$90k	Master's	10-15 hours per week	Innovator
+407	Career Changer / Adult Learner	45	Non-binary	UK	Nurse	Data Science	$70k–$90k	Some College	10-15 hours per week	Early Majority
+408	Working Professional Considering Graduate Degrees	40	Male	India	Nurse	Cybersecurity	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+409	Working Professional Considering Graduate Degrees	50	Prefer not to say	UK	Technician	Healthcare Administration	$90k–$120k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+410	Working Professional Considering Graduate Degrees	54	Male	Canada	Sales Manager	UX Design	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+411	Career Changer / Adult Learner	43	Male	UK	Sales Manager	AI & Machine Learning	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+412	Working Professional Considering Graduate Degrees	35	Female	India	Software Engineer	Public Policy	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+413	Working Professional Considering Graduate Degrees	48	Male	US	Nurse	Data Science	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+414	Working Professional Considering Graduate Degrees	30	Prefer not to say	UK	Software Engineer	UX Design	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+415	Working Professional Considering Graduate Degrees	42	Male	US	Marketing Specialist	Finance	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+416	Career Changer / Adult Learner	45	Prefer not to say	UK	HR Coordinator	Healthcare Administration	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Innovator
+417	Career Changer / Adult Learner	50	Female	Australia	Technician	AI & Machine Learning	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+418	Career Changer / Adult Learner	31	Male	UK	Sales Manager	Data Science	$120k+	Bachelor's	10-15 hours per week	Innovator
+419	Working Professional Considering Graduate Degrees	55	Non-binary	India	Nurse	Public Policy	$120k+	Some College	5-10 hours per week (1 course)	Late Majority
+420	Career Changer / Adult Learner	28	Non-binary	India	Sales Manager	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Innovator
+421	Career Changer / Adult Learner	49	Prefer not to say	US	Software Engineer	Healthcare Administration	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+422	Career Changer / Adult Learner	42	Non-binary	UK	Sales Manager	Cybersecurity	$70k–$90k	Master's	10-15 hours per week	Innovator
+423	Working Professional Considering Graduate Degrees	44	Prefer not to say	Germany	Marketing Specialist	Healthcare Administration	$90k–$120k	Some College	10-15 hours per week	Early Majority
+424	Working Professional Considering Graduate Degrees	37	Female	UK	Marketing Specialist	Public Policy	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+425	Working Professional Considering Graduate Degrees	28	Prefer not to say	UK	Accountant	Finance	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+426	Career Changer / Adult Learner	34	Female	Australia	Marketing Specialist	UX Design	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+427	Career Changer / Adult Learner	50	Female	Australia	Teacher	MBA	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+428	Career Changer / Adult Learner	36	Prefer not to say	Australia	Nurse	Cybersecurity	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+429	Working Professional Considering Graduate Degrees	26	Male	Germany	Accountant	MBA	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+430	Career Changer / Adult Learner	54	Male	Germany	HR Coordinator	Cybersecurity	$70k–$90k	Associate	5-10 hours per week (1 course)	Early Majority
+431	Working Professional Considering Graduate Degrees	41	Prefer not to say	UK	Marketing Specialist	UX Design	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+432	Career Changer / Adult Learner	55	Female	Australia	Technician	UX Design	$70k–$90k	Some College	5-10 hours per week (part-time)	Late Majority
+433	Career Changer / Adult Learner	53	Prefer not to say	Canada	Marketing Specialist	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Majority
+434	Working Professional Considering Graduate Degrees	40	Prefer not to say	Germany	Software Engineer	Finance	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+435	Working Professional Considering Graduate Degrees	48	Male	Australia	Software Engineer	MBA	$120k+	Some College	10-15 hours per week	Early Majority
+436	Career Changer / Adult Learner	46	Female	Australia	Teacher	Finance	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+437	Working Professional Considering Graduate Degrees	45	Prefer not to say	Canada	Sales Manager	MBA	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+438	Career Changer / Adult Learner	53	Male	India	Technician	UX Design	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Majority
+439	Working Professional Considering Graduate Degrees	46	Male	UK	Accountant	Cybersecurity	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+440	Career Changer / Adult Learner	28	Male	India	HR Coordinator	Public Policy	$70k–$90k	Bachelor's	10-15 hours per week	Innovator
+441	Career Changer / Adult Learner	53	Non-binary	India	Accountant	UX Design	$70k–$90k	Some College	5-10 hours per week (part-time)	Late Majority
+442	Career Changer / Adult Learner	51	Prefer not to say	US	Technician	Cybersecurity	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+443	Working Professional Considering Graduate Degrees	49	Male	Germany	Teacher	UX Design	$120k+	Associate	10-15 hours per week	Early Majority
+444	Working Professional Considering Graduate Degrees	41	Female	Australia	Nurse	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+445	Working Professional Considering Graduate Degrees	26	Female	Germany	Marketing Specialist	AI & Machine Learning	$30k–$50k	Master's	5-10 hours per week (part-time)	Innovator
+446	Career Changer / Adult Learner	40	Male	Australia	Teacher	AI & Machine Learning	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+447	Working Professional Considering Graduate Degrees	39	Non-binary	Canada	Technician	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+448	Career Changer / Adult Learner	26	Female	US	Nurse	MBA	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Adopter
+449	Career Changer / Adult Learner	29	Prefer not to say	Canada	Accountant	Data Science	$70k–$90k	Master's	10-15 hours per week	Innovator
+450	Career Changer / Adult Learner	50	Prefer not to say	Canada	Technician	Cybersecurity	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+451	Career Changer / Adult Learner	44	Prefer not to say	US	Teacher	Cybersecurity	$70k–$90k	Master's	10-15 hours per week	Innovator
+452	Working Professional Considering Graduate Degrees	50	Prefer not to say	US	Nurse	AI & Machine Learning	$120k+	Some College	5-10 hours per week (part-time)	Early Majority
+453	Career Changer / Adult Learner	25	Male	Canada	Teacher	UX Design	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+454	Career Changer / Adult Learner	46	Non-binary	US	Software Engineer	Healthcare Administration	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+455	Career Changer / Adult Learner	54	Prefer not to say	UK	HR Coordinator	Data Science	$90k–$120k	Some College	5-10 hours per week (part-time)	Late Majority
+456	Working Professional Considering Graduate Degrees	33	Female	Germany	Software Engineer	MBA	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+457	Working Professional Considering Graduate Degrees	43	Prefer not to say	UK	Nurse	AI & Machine Learning	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+458	Career Changer / Adult Learner	53	Female	Australia	Sales Manager	UX Design	$50k–$70k	Some College	5-10 hours per week (part-time)	Late Majority
+459	Career Changer / Adult Learner	46	Non-binary	Canada	Nurse	Cybersecurity	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Majority
+460	Working Professional Considering Graduate Degrees	41	Male	UK	Accountant	Finance	$120k+	Master's	10-15 hours per week	Innovator
+461	Career Changer / Adult Learner	26	Prefer not to say	Australia	Accountant	AI & Machine Learning	$120k+	Associate	10-15 hours per week (1-2 courses)	Innovator
+462	Career Changer / Adult Learner	34	Non-binary	US	Marketing Specialist	Healthcare Administration	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+463	Career Changer / Adult Learner	39	Male	US	Nurse	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+464	Working Professional Considering Graduate Degrees	50	Male	UK	Software Engineer	Cybersecurity	$90k–$120k	Associate	5-10 hours per week (part-time)	Early Majority
+465	Working Professional Considering Graduate Degrees	30	Non-binary	UK	Nurse	Cybersecurity	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Adopter
+466	Working Professional Considering Graduate Degrees	38	Non-binary	India	Marketing Specialist	Data Science	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+467	Career Changer / Adult Learner	42	Female	Australia	Technician	Finance	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+468	Career Changer / Adult Learner	30	Female	Australia	Nurse	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+469	Working Professional Considering Graduate Degrees	42	Female	UK	Software Engineer	Public Policy	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+470	Working Professional Considering Graduate Degrees	47	Female	US	HR Coordinator	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+471	Career Changer / Adult Learner	43	Prefer not to say	India	Technician	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+472	Working Professional Considering Graduate Degrees	26	Non-binary	Australia	Technician	AI & Machine Learning	$120k+	Master's	10-15 hours per week	Innovator
+473	Working Professional Considering Graduate Degrees	52	Prefer not to say	Canada	Sales Manager	Cybersecurity	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+474	Career Changer / Adult Learner	32	Non-binary	Germany	Nurse	MBA	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+475	Working Professional Considering Graduate Degrees	41	Male	India	Technician	UX Design	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+476	Working Professional Considering Graduate Degrees	36	Male	UK	Marketing Specialist	Data Science	$90k–$120k	Bachelor's	10-15 hours per week	Early Adopter
+477	Working Professional Considering Graduate Degrees	31	Non-binary	Australia	Accountant	MBA	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+478	Career Changer / Adult Learner	27	Female	India	Teacher	Finance	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+479	Working Professional Considering Graduate Degrees	40	Male	US	Software Engineer	Finance	$70k–$90k	Some College	10-15 hours per week	Early Majority
+480	Working Professional Considering Graduate Degrees	38	Male	Canada	Accountant	Finance	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+481	Working Professional Considering Graduate Degrees	37	Female	Australia	HR Coordinator	MBA	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+482	Working Professional Considering Graduate Degrees	38	Female	US	Technician	Healthcare Administration	$90k–$120k	Associate	20+ hours per week (full-time)	Early Adopter
+483	Career Changer / Adult Learner	52	Prefer not to say	Germany	Software Engineer	Cybersecurity	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+484	Career Changer / Adult Learner	24	Male	Canada	Technician	UX Design	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+485	Working Professional Considering Graduate Degrees	37	Non-binary	UK	Sales Manager	Data Science	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+486	Career Changer / Adult Learner	32	Male	Australia	HR Coordinator	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+487	Career Changer / Adult Learner	53	Female	India	Marketing Specialist	MBA	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Majority
+488	Working Professional Considering Graduate Degrees	43	Male	Canada	Nurse	Public Policy	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+489	Working Professional Considering Graduate Degrees	36	Female	India	Accountant	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+490	Career Changer / Adult Learner	27	Prefer not to say	Canada	Teacher	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+491	Working Professional Considering Graduate Degrees	54	Prefer not to say	US	HR Coordinator	AI & Machine Learning	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+492	Career Changer / Adult Learner	47	Prefer not to say	India	Teacher	Data Science	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+493	Career Changer / Adult Learner	28	Non-binary	India	Nurse	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+494	Career Changer / Adult Learner	50	Female	US	Technician	Data Science	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+495	Working Professional Considering Graduate Degrees	32	Male	UK	Nurse	AI & Machine Learning	$70k–$90k	Master's	10-15 hours per week	Innovator
+496	Working Professional Considering Graduate Degrees	42	Female	US	Software Engineer	Finance	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+497	Career Changer / Adult Learner	52	Male	India	Nurse	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+498	Working Professional Considering Graduate Degrees	49	Female	Canada	Accountant	Finance	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+499	Career Changer / Adult Learner	50	Non-binary	Australia	Accountant	Cybersecurity	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+500	Career Changer / Adult Learner	35	Prefer not to say	Germany	Marketing Specialist	Cybersecurity	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+501	Career Changer / Adult Learner	36	Prefer not to say	Germany	Software Engineer	Cybersecurity	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+502	Career Changer / Adult Learner	49	Female	US	Sales Manager	MBA	$120k+	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+503	Career Changer / Adult Learner	43	Female	US	Accountant	Finance	$120k+	Associate	20+ hours per week (full-time)	Early Adopter
+504	Working Professional Considering Graduate Degrees	26	Non-binary	India	Sales Manager	Public Policy	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+505	Working Professional Considering Graduate Degrees	51	Female	US	Accountant	Finance	$90k–$120k	Master's	5-10 hours per week (1 course)	Early Adopter
+506	Career Changer / Adult Learner	45	Male	US	HR Coordinator	Data Science	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+507	Career Changer / Adult Learner	43	Non-binary	US	Sales Manager	MBA	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+508	Career Changer / Adult Learner	29	Male	US	HR Coordinator	AI & Machine Learning	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+509	Working Professional Considering Graduate Degrees	34	Male	US	Accountant	Data Science	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+510	Working Professional Considering Graduate Degrees	51	Male	Australia	Technician	Public Policy	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+511	Career Changer / Adult Learner	38	Female	US	Marketing Specialist	Public Policy	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+512	Career Changer / Adult Learner	39	Male	Canada	Nurse	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+513	Working Professional Considering Graduate Degrees	48	Prefer not to say	UK	Sales Manager	UX Design	$70k–$90k	Some College	10-15 hours per week	Early Majority
+514	Working Professional Considering Graduate Degrees	47	Female	US	Marketing Specialist	Finance	$70k–$90k	Associate	10-15 hours per week	Early Majority
+515	Working Professional Considering Graduate Degrees	25	Female	US	Technician	Finance	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+516	Career Changer / Adult Learner	29	Female	US	Nurse	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+517	Career Changer / Adult Learner	50	Non-binary	UK	Teacher	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+518	Working Professional Considering Graduate Degrees	30	Non-binary	UK	Accountant	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+519	Working Professional Considering Graduate Degrees	35	Female	UK	Software Engineer	MBA	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+520	Working Professional Considering Graduate Degrees	29	Non-binary	Canada	Technician	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+521	Working Professional Considering Graduate Degrees	46	Prefer not to say	Canada	Accountant	Public Policy	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+522	Working Professional Considering Graduate Degrees	42	Female	US	HR Coordinator	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+523	Career Changer / Adult Learner	36	Non-binary	Canada	Sales Manager	MBA	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+524	Working Professional Considering Graduate Degrees	39	Female	India	Marketing Specialist	AI & Machine Learning	$90k–$120k	Some College	10-15 hours per week	Early Majority
+525	Working Professional Considering Graduate Degrees	47	Female	US	Software Engineer	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+526	Career Changer / Adult Learner	41	Female	India	Software Engineer	Data Science	$90k–$120k	Some College	10-15 hours per week	Early Majority
+527	Career Changer / Adult Learner	48	Female	UK	Marketing Specialist	Healthcare Administration	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+528	Working Professional Considering Graduate Degrees	36	Male	Canada	Software Engineer	Finance	$120k+	Some College	10-15 hours per week	Early Majority
+529	Working Professional Considering Graduate Degrees	26	Prefer not to say	Germany	Teacher	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+530	Career Changer / Adult Learner	39	Non-binary	Canada	Sales Manager	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+531	Working Professional Considering Graduate Degrees	27	Female	India	HR Coordinator	Healthcare Administration	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Innovator
+532	Career Changer / Adult Learner	27	Non-binary	US	Sales Manager	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+533	Working Professional Considering Graduate Degrees	39	Prefer not to say	Germany	Marketing Specialist	Cybersecurity	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+534	Working Professional Considering Graduate Degrees	27	Prefer not to say	India	Technician	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+535	Career Changer / Adult Learner	25	Prefer not to say	India	HR Coordinator	UX Design	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+536	Working Professional Considering Graduate Degrees	44	Prefer not to say	India	Sales Manager	Finance	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+537	Working Professional Considering Graduate Degrees	43	Male	Germany	Accountant	Data Science	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+538	Career Changer / Adult Learner	47	Female	UK	Accountant	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+539	Career Changer / Adult Learner	49	Non-binary	Germany	HR Coordinator	Data Science	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+540	Career Changer / Adult Learner	39	Non-binary	US	Technician	Healthcare Administration	$120k+	Associate	20+ hours per week (full-time)	Early Adopter
+541	Working Professional Considering Graduate Degrees	32	Prefer not to say	India	Technician	Finance	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+542	Career Changer / Adult Learner	54	Prefer not to say	Canada	Teacher	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+543	Career Changer / Adult Learner	35	Male	India	HR Coordinator	Healthcare Administration	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+544	Working Professional Considering Graduate Degrees	33	Male	UK	HR Coordinator	MBA	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+545	Working Professional Considering Graduate Degrees	26	Prefer not to say	Germany	Marketing Specialist	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Innovator
+546	Career Changer / Adult Learner	33	Male	Germany	Software Engineer	Finance	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+547	Working Professional Considering Graduate Degrees	32	Non-binary	Australia	Technician	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+548	Working Professional Considering Graduate Degrees	31	Non-binary	Canada	Teacher	Healthcare Administration	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+549	Career Changer / Adult Learner	25	Non-binary	India	HR Coordinator	MBA	$70k–$90k	Some College	10-15 hours per week	Early Adopter
+550	Working Professional Considering Graduate Degrees	41	Female	US	Marketing Specialist	UX Design	$120k+	Bachelor's	20+ hours per week (full-time)	Innovator
+551	Working Professional Considering Graduate Degrees	26	Prefer not to say	India	Software Engineer	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+552	Career Changer / Adult Learner	53	Female	Canada	Software Engineer	Finance	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+553	Working Professional Considering Graduate Degrees	48	Female	UK	Nurse	UX Design	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+554	Working Professional Considering Graduate Degrees	32	Female	UK	Software Engineer	Healthcare Administration	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+555	Career Changer / Adult Learner	51	Female	Australia	Software Engineer	Healthcare Administration	$70k–$90k	Some College	5-10 hours per week (part-time)	Early Majority
+556	Career Changer / Adult Learner	50	Female	India	Software Engineer	UX Design	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+557	Working Professional Considering Graduate Degrees	29	Male	UK	Accountant	Cybersecurity	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+558	Career Changer / Adult Learner	39	Male	Germany	Software Engineer	MBA	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+559	Working Professional Considering Graduate Degrees	31	Prefer not to say	Australia	HR Coordinator	AI & Machine Learning	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+560	Career Changer / Adult Learner	40	Female	US	HR Coordinator	Cybersecurity	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+561	Career Changer / Adult Learner	41	Male	India	Marketing Specialist	UX Design	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+562	Career Changer / Adult Learner	30	Female	US	HR Coordinator	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+563	Working Professional Considering Graduate Degrees	53	Male	Australia	Nurse	MBA	$70k–$90k	Master's	5-10 hours per week (part-time)	Early Majority
+564	Career Changer / Adult Learner	50	Female	Australia	HR Coordinator	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+565	Career Changer / Adult Learner	51	Non-binary	UK	Sales Manager	AI & Machine Learning	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+566	Working Professional Considering Graduate Degrees	44	Female	Germany	Teacher	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+567	Working Professional Considering Graduate Degrees	34	Non-binary	India	Accountant	Public Policy	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+568	Career Changer / Adult Learner	50	Non-binary	UK	Technician	UX Design	$70k–$90k	Some College	5-10 hours per week (1 course)	Early Majority
+569	Working Professional Considering Graduate Degrees	48	Non-binary	India	Sales Manager	Healthcare Administration	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+570	Career Changer / Adult Learner	44	Prefer not to say	India	Software Engineer	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+571	Career Changer / Adult Learner	37	Male	Germany	Sales Manager	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+572	Working Professional Considering Graduate Degrees	33	Prefer not to say	UK	HR Coordinator	Public Policy	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+573	Working Professional Considering Graduate Degrees	34	Female	Germany	Teacher	AI & Machine Learning	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+574	Career Changer / Adult Learner	50	Non-binary	Germany	Nurse	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+575	Career Changer / Adult Learner	38	Non-binary	Australia	Technician	Finance	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+576	Working Professional Considering Graduate Degrees	43	Non-binary	India	HR Coordinator	Public Policy	$70k–$90k	Bachelor's	10-15 hours per week	Early Adopter
+577	Career Changer / Adult Learner	44	Non-binary	Australia	HR Coordinator	MBA	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+578	Career Changer / Adult Learner	35	Male	Canada	Sales Manager	Cybersecurity	$120k+	Bachelor's	10-15 hours per week	Innovator
+579	Career Changer / Adult Learner	27	Prefer not to say	UK	HR Coordinator	AI & Machine Learning	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Adopter
+580	Career Changer / Adult Learner	46	Female	Germany	Sales Manager	MBA	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+581	Career Changer / Adult Learner	38	Male	Canada	Marketing Specialist	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+582	Career Changer / Adult Learner	49	Female	Germany	Software Engineer	Data Science	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+583	Career Changer / Adult Learner	30	Male	Canada	Sales Manager	UX Design	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+584	Career Changer / Adult Learner	33	Male	India	Teacher	AI & Machine Learning	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+585	Career Changer / Adult Learner	48	Non-binary	Australia	Nurse	MBA	$70k–$90k	Associate	10-15 hours per week	Early Majority
+586	Career Changer / Adult Learner	37	Non-binary	UK	Accountant	MBA	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+587	Career Changer / Adult Learner	49	Prefer not to say	India	Accountant	Data Science	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Majority
+588	Career Changer / Adult Learner	41	Male	Germany	Technician	AI & Machine Learning	$120k+	Master's	10-15 hours per week	Innovator
+589	Career Changer / Adult Learner	32	Male	UK	Nurse	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+590	Working Professional Considering Graduate Degrees	29	Female	US	HR Coordinator	UX Design	$90k–$120k	Master's	15-20 hours per week (2 courses)	Innovator
+591	Working Professional Considering Graduate Degrees	48	Female	Germany	Accountant	Healthcare Administration	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+592	Working Professional Considering Graduate Degrees	55	Female	Canada	Accountant	Cybersecurity	$50k–$70k	Some College	5-10 hours per week (1 course)	Late Majority
+593	Working Professional Considering Graduate Degrees	55	Prefer not to say	UK	Nurse	Finance	$70k–$90k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+594	Working Professional Considering Graduate Degrees	37	Prefer not to say	India	HR Coordinator	Cybersecurity	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+595	Working Professional Considering Graduate Degrees	37	Non-binary	UK	Teacher	Finance	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+596	Working Professional Considering Graduate Degrees	41	Non-binary	India	Marketing Specialist	UX Design	$90k–$120k	Some College	10-15 hours per week	Early Majority
+597	Working Professional Considering Graduate Degrees	41	Male	India	HR Coordinator	MBA	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+598	Working Professional Considering Graduate Degrees	28	Non-binary	Canada	Sales Manager	Data Science	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+599	Working Professional Considering Graduate Degrees	34	Male	Canada	Teacher	Finance	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+600	Career Changer / Adult Learner	47	Male	India	HR Coordinator	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+601	Working Professional Considering Graduate Degrees	37	Male	India	Technician	Cybersecurity	$70k–$90k	Associate	10-15 hours per week	Early Adopter
+602	Working Professional Considering Graduate Degrees	35	Female	Germany	Nurse	Healthcare Administration	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+603	Career Changer / Adult Learner	41	Female	Australia	Technician	Finance	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+604	Career Changer / Adult Learner	50	Female	Canada	Nurse	UX Design	$30k–$50k	Master's	5-10 hours per week (part-time)	Early Adopter
+605	Working Professional Considering Graduate Degrees	27	Non-binary	UK	Software Engineer	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+606	Working Professional Considering Graduate Degrees	47	Female	Canada	Accountant	Public Policy	$120k+	Master's	10-15 hours per week	Early Adopter
+607	Working Professional Considering Graduate Degrees	25	Male	Canada	Technician	AI & Machine Learning	$120k+	Associate	10-15 hours per week (1-2 courses)	Innovator
+608	Working Professional Considering Graduate Degrees	30	Female	Canada	Teacher	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+609	Career Changer / Adult Learner	37	Prefer not to say	Germany	Accountant	Cybersecurity	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+610	Working Professional Considering Graduate Degrees	35	Male	India	Teacher	Finance	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+611	Working Professional Considering Graduate Degrees	43	Prefer not to say	Germany	Teacher	Cybersecurity	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+612	Career Changer / Adult Learner	25	Male	Canada	HR Coordinator	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+613	Working Professional Considering Graduate Degrees	49	Non-binary	UK	Marketing Specialist	Healthcare Administration	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+614	Working Professional Considering Graduate Degrees	24	Male	India	Technician	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Adopter
+615	Working Professional Considering Graduate Degrees	44	Prefer not to say	India	Marketing Specialist	UX Design	$90k–$120k	Master's	10-15 hours per week	Innovator
+616	Career Changer / Adult Learner	42	Prefer not to say	India	Nurse	Data Science	$90k–$120k	Associate	10-15 hours per week	Early Adopter
+617	Career Changer / Adult Learner	51	Non-binary	Canada	Accountant	MBA	$90k–$120k	Some College	5-10 hours per week (1 course)	Early Majority
+618	Career Changer / Adult Learner	41	Female	Germany	Accountant	MBA	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+619	Career Changer / Adult Learner	47	Male	India	Marketing Specialist	MBA	$90k–$120k	Master's	10-15 hours per week	Early Adopter
+620	Working Professional Considering Graduate Degrees	47	Female	Germany	Nurse	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+621	Career Changer / Adult Learner	29	Female	Canada	Accountant	Finance	$70k–$90k	Master's	10-15 hours per week	Innovator
+622	Working Professional Considering Graduate Degrees	32	Prefer not to say	Germany	HR Coordinator	UX Design	$30k–$50k	Master's	5-10 hours per week (part-time)	Innovator
+623	Career Changer / Adult Learner	27	Male	UK	HR Coordinator	Public Policy	$90k–$120k	Master's	10-15 hours per week	Innovator
+624	Working Professional Considering Graduate Degrees	45	Female	US	Software Engineer	Data Science	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+625	Career Changer / Adult Learner	32	Prefer not to say	UK	Nurse	Finance	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+626	Working Professional Considering Graduate Degrees	48	Female	India	Marketing Specialist	Cybersecurity	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+627	Working Professional Considering Graduate Degrees	29	Non-binary	India	Nurse	Data Science	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+628	Career Changer / Adult Learner	41	Female	Germany	Nurse	Healthcare Administration	$90k–$120k	Master's	10-15 hours per week	Innovator
+629	Career Changer / Adult Learner	38	Female	Australia	Nurse	Cybersecurity	$120k+	Some College	10-15 hours per week	Early Majority
+630	Career Changer / Adult Learner	39	Prefer not to say	Germany	Technician	Cybersecurity	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+631	Working Professional Considering Graduate Degrees	40	Male	UK	Sales Manager	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+632	Career Changer / Adult Learner	39	Non-binary	Germany	HR Coordinator	MBA	$90k–$120k	Some College	10-15 hours per week	Early Majority
+633	Working Professional Considering Graduate Degrees	55	Non-binary	India	Technician	MBA	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+634	Career Changer / Adult Learner	40	Male	Australia	Technician	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+635	Working Professional Considering Graduate Degrees	42	Male	India	Technician	Cybersecurity	$90k–$120k	Master's	10-15 hours per week	Innovator
+636	Career Changer / Adult Learner	24	Female	Australia	Software Engineer	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Innovator
+637	Working Professional Considering Graduate Degrees	46	Non-binary	UK	Sales Manager	UX Design	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+638	Working Professional Considering Graduate Degrees	49	Male	Canada	Marketing Specialist	Finance	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+639	Career Changer / Adult Learner	50	Prefer not to say	India	Technician	AI & Machine Learning	$70k–$90k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+640	Working Professional Considering Graduate Degrees	28	Female	Australia	HR Coordinator	MBA	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Innovator
+641	Career Changer / Adult Learner	31	Prefer not to say	India	Nurse	Healthcare Administration	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+642	Working Professional Considering Graduate Degrees	40	Male	India	Nurse	AI & Machine Learning	$90k–$120k	Some College	10-15 hours per week	Early Majority
+643	Career Changer / Adult Learner	37	Male	Germany	HR Coordinator	Public Policy	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+644	Career Changer / Adult Learner	47	Non-binary	US	Technician	Finance	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+645	Working Professional Considering Graduate Degrees	50	Male	US	Accountant	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+646	Career Changer / Adult Learner	45	Prefer not to say	US	HR Coordinator	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+647	Career Changer / Adult Learner	28	Female	India	Marketing Specialist	Finance	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Innovator
+648	Career Changer / Adult Learner	32	Male	UK	Accountant	Finance	$90k–$120k	Master's	10-15 hours per week	Innovator
+649	Working Professional Considering Graduate Degrees	42	Female	India	Nurse	UX Design	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+650	Working Professional Considering Graduate Degrees	31	Female	UK	Software Engineer	Public Policy	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+651	Working Professional Considering Graduate Degrees	30	Male	US	Software Engineer	Cybersecurity	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+652	Working Professional Considering Graduate Degrees	46	Male	Germany	Teacher	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week	Early Majority
+653	Career Changer / Adult Learner	49	Female	Canada	Marketing Specialist	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+654	Career Changer / Adult Learner	24	Non-binary	Canada	Sales Manager	Cybersecurity	$120k+	Associate	10-15 hours per week	Innovator
+655	Working Professional Considering Graduate Degrees	49	Female	US	Accountant	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+656	Career Changer / Adult Learner	49	Prefer not to say	UK	Nurse	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+657	Working Professional Considering Graduate Degrees	47	Non-binary	Germany	Software Engineer	UX Design	$70k–$90k	Associate	10-15 hours per week	Early Majority
+658	Career Changer / Adult Learner	55	Non-binary	Australia	Marketing Specialist	Healthcare Administration	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+659	Working Professional Considering Graduate Degrees	55	Female	Canada	Teacher	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+660	Working Professional Considering Graduate Degrees	47	Non-binary	India	Teacher	Public Policy	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+661	Working Professional Considering Graduate Degrees	39	Female	Canada	Nurse	Public Policy	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Majority
+662	Working Professional Considering Graduate Degrees	43	Non-binary	Canada	Marketing Specialist	UX Design	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+663	Working Professional Considering Graduate Degrees	51	Non-binary	Germany	HR Coordinator	UX Design	$120k+	Some College	5-10 hours per week (part-time)	Early Majority
+664	Career Changer / Adult Learner	44	Non-binary	UK	Software Engineer	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+665	Career Changer / Adult Learner	51	Prefer not to say	Germany	Sales Manager	Data Science	$120k+	Bachelor's	5-10 hours per week (part-time)	Early Majority
+666	Career Changer / Adult Learner	41	Female	US	HR Coordinator	Finance	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+667	Working Professional Considering Graduate Degrees	43	Female	India	Sales Manager	Public Policy	$120k+	Associate	10-15 hours per week	Early Adopter
+668	Career Changer / Adult Learner	55	Prefer not to say	UK	HR Coordinator	Public Policy	$90k–$120k	Some College	5-10 hours per week (1 course)	Late Majority
+669	Working Professional Considering Graduate Degrees	26	Prefer not to say	India	Teacher	Healthcare Administration	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+670	Career Changer / Adult Learner	26	Male	US	Sales Manager	Public Policy	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+671	Working Professional Considering Graduate Degrees	51	Prefer not to say	US	Technician	AI & Machine Learning	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+672	Working Professional Considering Graduate Degrees	28	Non-binary	Canada	Accountant	Data Science	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+673	Career Changer / Adult Learner	28	Male	UK	Sales Manager	Data Science	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+674	Working Professional Considering Graduate Degrees	50	Female	US	Nurse	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+675	Career Changer / Adult Learner	47	Male	Australia	Marketing Specialist	Public Policy	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+676	Working Professional Considering Graduate Degrees	33	Female	Canada	Software Engineer	Public Policy	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+677	Career Changer / Adult Learner	50	Non-binary	Germany	HR Coordinator	Finance	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+678	Career Changer / Adult Learner	37	Male	UK	Marketing Specialist	AI & Machine Learning	$120k+	Bachelor's	10-15 hours per week	Early Adopter
+679	Working Professional Considering Graduate Degrees	31	Non-binary	UK	Marketing Specialist	Healthcare Administration	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+680	Working Professional Considering Graduate Degrees	45	Male	Canada	Software Engineer	Healthcare Administration	$30k–$50k	Associate	5-10 hours per week (1 course)	Early Majority
+681	Working Professional Considering Graduate Degrees	41	Prefer not to say	Germany	Teacher	Data Science	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+682	Career Changer / Adult Learner	36	Prefer not to say	US	HR Coordinator	Cybersecurity	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+683	Career Changer / Adult Learner	44	Female	Australia	Marketing Specialist	MBA	$120k+	Some College	10-15 hours per week	Early Majority
+684	Career Changer / Adult Learner	45	Non-binary	Canada	Marketing Specialist	Data Science	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+685	Working Professional Considering Graduate Degrees	52	Female	US	Sales Manager	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+686	Career Changer / Adult Learner	52	Male	UK	Software Engineer	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+687	Working Professional Considering Graduate Degrees	54	Female	US	Technician	Healthcare Administration	$120k+	Some College	5-10 hours per week (part-time)	Late Majority
+688	Working Professional Considering Graduate Degrees	52	Female	Australia	Technician	AI & Machine Learning	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+689	Career Changer / Adult Learner	47	Non-binary	Canada	Nurse	Finance	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+690	Career Changer / Adult Learner	49	Non-binary	Germany	Teacher	Cybersecurity	$120k+	Some College	10-15 hours per week	Early Majority
+691	Working Professional Considering Graduate Degrees	31	Male	Australia	Nurse	UX Design	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+692	Career Changer / Adult Learner	52	Non-binary	Canada	Accountant	AI & Machine Learning	$90k–$120k	Master's	5-10 hours per week (part-time)	Early Adopter
+693	Working Professional Considering Graduate Degrees	48	Female	US	Teacher	AI & Machine Learning	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+694	Working Professional Considering Graduate Degrees	38	Prefer not to say	Canada	Software Engineer	Data Science	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+695	Career Changer / Adult Learner	43	Female	US	Marketing Specialist	Finance	$50k–$70k	Bachelor's	5-10 hours per week (1 course)	Early Adopter
+696	Working Professional Considering Graduate Degrees	31	Male	UK	Marketing Specialist	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Adopter
+697	Career Changer / Adult Learner	50	Prefer not to say	Germany	Sales Manager	Finance	$90k–$120k	Some College	5-10 hours per week (1 course)	Early Majority
+698	Working Professional Considering Graduate Degrees	26	Female	US	Marketing Specialist	Data Science	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Innovator
+699	Working Professional Considering Graduate Degrees	54	Non-binary	Canada	HR Coordinator	Finance	$90k–$120k	Associate	5-10 hours per week (1 course)	Early Majority
+700	Career Changer / Adult Learner	35	Female	US	Accountant	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+701	Career Changer / Adult Learner	43	Non-binary	Canada	Accountant	Public Policy	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+702	Working Professional Considering Graduate Degrees	34	Female	US	Marketing Specialist	AI & Machine Learning	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+703	Career Changer / Adult Learner	46	Male	US	Nurse	AI & Machine Learning	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+704	Working Professional Considering Graduate Degrees	27	Female	US	Technician	Finance	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Innovator
+705	Working Professional Considering Graduate Degrees	52	Male	Canada	Accountant	UX Design	$90k–$120k	Associate	5-10 hours per week (part-time)	Early Majority
+706	Career Changer / Adult Learner	39	Prefer not to say	India	HR Coordinator	Cybersecurity	$70k–$90k	Master's	10-15 hours per week	Innovator
+707	Working Professional Considering Graduate Degrees	26	Non-binary	US	Sales Manager	UX Design	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+708	Career Changer / Adult Learner	40	Male	India	Accountant	Finance	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+709	Career Changer / Adult Learner	25	Female	Canada	Marketing Specialist	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+710	Working Professional Considering Graduate Degrees	52	Non-binary	Canada	Nurse	Data Science	$30k–$50k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+711	Working Professional Considering Graduate Degrees	46	Non-binary	Germany	Accountant	AI & Machine Learning	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+712	Working Professional Considering Graduate Degrees	38	Prefer not to say	US	Nurse	Finance	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+713	Working Professional Considering Graduate Degrees	27	Male	US	Accountant	UX Design	$50k–$70k	Master's	5-10 hours per week (1 course)	Innovator
+714	Career Changer / Adult Learner	51	Prefer not to say	UK	Sales Manager	Cybersecurity	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+715	Working Professional Considering Graduate Degrees	39	Non-binary	Germany	Teacher	MBA	$120k+	Master's	10-15 hours per week	Innovator
+716	Career Changer / Adult Learner	48	Female	UK	Teacher	Data Science	$90k–$120k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+717	Career Changer / Adult Learner	42	Female	Canada	Accountant	MBA	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+718	Career Changer / Adult Learner	40	Male	Canada	Technician	Public Policy	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+719	Working Professional Considering Graduate Degrees	44	Non-binary	Australia	Marketing Specialist	Finance	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+720	Career Changer / Adult Learner	49	Non-binary	Canada	Software Engineer	Data Science	$70k–$90k	Master's	10-15 hours per week (1-2 courses)	Early Adopter
+721	Career Changer / Adult Learner	41	Female	Australia	Accountant	Public Policy	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+722	Career Changer / Adult Learner	31	Prefer not to say	US	Accountant	Data Science	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+723	Career Changer / Adult Learner	37	Non-binary	Australia	Technician	AI & Machine Learning	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+724	Career Changer / Adult Learner	30	Prefer not to say	Australia	Marketing Specialist	Finance	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+725	Career Changer / Adult Learner	42	Non-binary	Australia	Software Engineer	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week	Early Majority
+726	Career Changer / Adult Learner	24	Non-binary	Australia	Sales Manager	Finance	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+727	Career Changer / Adult Learner	50	Non-binary	Germany	Nurse	AI & Machine Learning	$120k+	Associate	5-10 hours per week (1 course)	Early Majority
+728	Career Changer / Adult Learner	38	Female	UK	Accountant	UX Design	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Majority
+729	Career Changer / Adult Learner	41	Male	UK	Software Engineer	Public Policy	$70k–$90k	Some College	10-15 hours per week	Early Majority
+730	Career Changer / Adult Learner	38	Female	Australia	Technician	MBA	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+731	Working Professional Considering Graduate Degrees	54	Non-binary	Canada	HR Coordinator	AI & Machine Learning	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+732	Working Professional Considering Graduate Degrees	29	Male	US	Accountant	Healthcare Administration	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+733	Career Changer / Adult Learner	33	Female	Australia	Software Engineer	Public Policy	$90k–$120k	Some College	10-15 hours per week	Early Adopter
+734	Career Changer / Adult Learner	36	Non-binary	UK	Marketing Specialist	MBA	$120k+	Master's	10-15 hours per week	Innovator
+735	Working Professional Considering Graduate Degrees	51	Non-binary	Germany	HR Coordinator	MBA	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+736	Career Changer / Adult Learner	46	Female	Germany	Teacher	MBA	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+737	Career Changer / Adult Learner	38	Non-binary	India	Sales Manager	MBA	$50k–$70k	Master's	5-10 hours per week (1 course)	Early Adopter
+738	Working Professional Considering Graduate Degrees	38	Male	UK	Sales Manager	Healthcare Administration	$90k–$120k	Bachelor's	10-15 hours per week (1-2 courses)	Early Adopter
+739	Working Professional Considering Graduate Degrees	35	Non-binary	UK	Nurse	Public Policy	$30k–$50k	Associate	5-10 hours per week (part-time)	Early Adopter
+740	Career Changer / Adult Learner	44	Female	Canada	Marketing Specialist	AI & Machine Learning	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Adopter
+741	Career Changer / Adult Learner	27	Prefer not to say	UK	Sales Manager	Cybersecurity	$120k+	Bachelor's	10-15 hours per week	Innovator
+742	Career Changer / Adult Learner	28	Female	UK	Sales Manager	Data Science	$70k–$90k	Master's	10-15 hours per week	Innovator
+743	Career Changer / Adult Learner	25	Prefer not to say	India	Marketing Specialist	Finance	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Adopter
+744	Career Changer / Adult Learner	40	Female	Germany	Technician	Healthcare Administration	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+745	Working Professional Considering Graduate Degrees	38	Prefer not to say	Canada	Sales Manager	MBA	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+746	Career Changer / Adult Learner	42	Female	Germany	HR Coordinator	Healthcare Administration	$90k–$120k	Master's	10-15 hours per week	Innovator
+747	Career Changer / Adult Learner	30	Female	US	Software Engineer	Healthcare Administration	$90k–$120k	Bachelor's	15-20 hours per week (2 courses)	Innovator
+748	Working Professional Considering Graduate Degrees	52	Prefer not to say	Canada	Software Engineer	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+749	Career Changer / Adult Learner	40	Non-binary	US	Teacher	Healthcare Administration	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+750	Working Professional Considering Graduate Degrees	27	Female	Australia	Sales Manager	MBA	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+751	Career Changer / Adult Learner	54	Male	US	Accountant	Public Policy	$120k+	Bachelor's	5-10 hours per week (1 course)	Early Majority
+752	Working Professional Considering Graduate Degrees	55	Prefer not to say	India	Technician	Cybersecurity	$120k+	Bachelor's	5-10 hours per week (1 course)	Early Majority
+753	Working Professional Considering Graduate Degrees	27	Female	US	Nurse	Cybersecurity	$70k–$90k	Master's	10-15 hours per week	Innovator
+754	Career Changer / Adult Learner	24	Female	Canada	Nurse	Cybersecurity	$70k–$90k	Master's	10-15 hours per week	Innovator
+755	Career Changer / Adult Learner	31	Prefer not to say	Germany	Teacher	Finance	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+756	Career Changer / Adult Learner	31	Non-binary	UK	Marketing Specialist	Data Science	$50k–$70k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+757	Working Professional Considering Graduate Degrees	36	Prefer not to say	UK	HR Coordinator	Public Policy	$120k+	Some College	10-15 hours per week	Early Majority
+758	Working Professional Considering Graduate Degrees	37	Prefer not to say	Canada	Sales Manager	Data Science	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+759	Career Changer / Adult Learner	30	Male	India	Teacher	Finance	$70k–$90k	Bachelor's	10-15 hours per week	Innovator
+760	Working Professional Considering Graduate Degrees	38	Male	Germany	Sales Manager	UX Design	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+761	Working Professional Considering Graduate Degrees	26	Female	Germany	Technician	MBA	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+762	Career Changer / Adult Learner	50	Male	Canada	Marketing Specialist	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+763	Career Changer / Adult Learner	43	Non-binary	US	Marketing Specialist	AI & Machine Learning	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+764	Career Changer / Adult Learner	33	Female	India	Nurse	MBA	$120k+	Master's	10-15 hours per week	Innovator
+765	Working Professional Considering Graduate Degrees	29	Non-binary	UK	HR Coordinator	Data Science	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Adopter
+766	Working Professional Considering Graduate Degrees	50	Non-binary	Australia	Software Engineer	MBA	$90k–$120k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+767	Career Changer / Adult Learner	26	Male	Australia	Sales Manager	Data Science	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Adopter
+768	Working Professional Considering Graduate Degrees	33	Male	Canada	Marketing Specialist	MBA	$50k–$70k	Some College	5-10 hours per week (1 course)	Early Majority
+769	Career Changer / Adult Learner	38	Female	Germany	Technician	Data Science	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+770	Career Changer / Adult Learner	47	Prefer not to say	US	Teacher	Healthcare Administration	$120k+	Associate	10-15 hours per week	Early Majority
+771	Career Changer / Adult Learner	49	Female	Germany	Accountant	Data Science	$70k–$90k	Master's	10-15 hours per week	Early Adopter
+772	Career Changer / Adult Learner	30	Non-binary	US	Technician	AI & Machine Learning	$30k–$50k	Some College	5-10 hours per week (1 course)	Early Majority
+773	Career Changer / Adult Learner	28	Prefer not to say	India	Marketing Specialist	UX Design	$120k+	Some College	10-15 hours per week	Early Adopter
+774	Career Changer / Adult Learner	34	Female	Germany	Teacher	Healthcare Administration	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+775	Career Changer / Adult Learner	32	Female	Australia	HR Coordinator	AI & Machine Learning	$120k+	Some College	10-15 hours per week (1-2 courses)	Early Adopter
+776	Working Professional Considering Graduate Degrees	49	Male	UK	Marketing Specialist	Finance	$90k–$120k	Associate	10-15 hours per week (1-2 courses)	Early Majority
+777	Career Changer / Adult Learner	34	Prefer not to say	US	HR Coordinator	Public Policy	$30k–$50k	Master's	5-10 hours per week (1 course)	Innovator
+778	Career Changer / Adult Learner	31	Prefer not to say	Canada	HR Coordinator	Cybersecurity	$70k–$90k	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+779	Career Changer / Adult Learner	50	Female	UK	Teacher	Finance	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+780	Working Professional Considering Graduate Degrees	52	Female	Germany	Nurse	Public Policy	$50k–$70k	Associate	5-10 hours per week (1 course)	Early Majority
+781	Working Professional Considering Graduate Degrees	41	Prefer not to say	UK	HR Coordinator	Cybersecurity	$90k–$120k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+782	Working Professional Considering Graduate Degrees	52	Female	Australia	Teacher	Finance	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+783	Career Changer / Adult Learner	54	Male	UK	Nurse	Cybersecurity	$120k+	Some College	5-10 hours per week (part-time)	Late Majority
+784	Career Changer / Adult Learner	38	Female	Germany	Technician	Healthcare Administration	$120k+	Master's	10-15 hours per week (1-2 courses)	Innovator
+785	Career Changer / Adult Learner	53	Non-binary	Canada	Accountant	AI & Machine Learning	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Majority
+786	Career Changer / Adult Learner	38	Non-binary	UK	HR Coordinator	Cybersecurity	$30k–$50k	Bachelor's	5-10 hours per week (part-time)	Early Adopter
+787	Working Professional Considering Graduate Degrees	26	Prefer not to say	US	Sales Manager	AI & Machine Learning	$50k–$70k	Master's	5-10 hours per week (part-time)	Innovator
+788	Working Professional Considering Graduate Degrees	32	Male	India	Technician	Data Science	$120k+	Bachelor's	10-15 hours per week (1-2 courses)	Innovator
+789	Working Professional Considering Graduate Degrees	41	Prefer not to say	Canada	Accountant	Cybersecurity	$50k–$70k	Master's	5-10 hours per week (part-time)	Early Adopter
+790	Working Professional Considering Graduate Degrees	53	Non-binary	UK	Sales Manager	Finance	$70k–$90k	Bachelor's	5-10 hours per week (1 course)	Early Majority
+791	Working Professional Considering Graduate Degrees	38	Non-binary	UK	Accountant	Cybersecurity	$120k+	Associate	10-15 hours per week	Early Adopter
+792	Working Professional Considering Graduate Degrees	53	Prefer not to say	India	Nurse	AI & Machine Learning	$30k–$50k	Master's	5-10 hours per week (1 course)	Early Majority
+793	Career Changer / Adult Learner	39	Non-binary	UK	Accountant	Cybersecurity	$120k+	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+794	Working Professional Considering Graduate Degrees	52	Male	Australia	Software Engineer	Data Science	$70k–$90k	Master's	5-10 hours per week (part-time)	Early Adopter
+795	Career Changer / Adult Learner	41	Female	Australia	Marketing Specialist	Cybersecurity	$30k–$50k	Some College	5-10 hours per week (part-time)	Early Majority
+796	Working Professional Considering Graduate Degrees	46	Prefer not to say	Canada	HR Coordinator	Public Policy	$50k–$70k	Associate	5-10 hours per week (part-time)	Early Majority
+797	Career Changer / Adult Learner	47	Male	Canada	Teacher	Finance	$50k–$70k	Some College	5-10 hours per week (part-time)	Early Majority
+798	Working Professional Considering Graduate Degrees	45	Female	Germany	Marketing Specialist	Finance	$70k–$90k	Associate	10-15 hours per week (1-2 courses)	Early Adopter
+799	Working Professional Considering Graduate Degrees	49	Male	Canada	Marketing Specialist	Healthcare Administration	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Majority
+800	Working Professional Considering Graduate Degrees	45	Male	US	Marketing Specialist	Public Policy	$70k–$90k	Some College	10-15 hours per week (1-2 courses)	Early Majority

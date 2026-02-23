@@ -1,0 +1,802 @@
+ID	Time Commitment	Budget (per semester)	Career Change?	Target Timeline
+====================================================================================================
+1	5-10 hours per week (1 course)	$6,000-$8,000	No	3-5 years or flexible
+2	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+3	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+4	15-20 hours per week (2 courses)	$8,000-$12,000	No	3-5 years or flexible
+5	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+6	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years
+7	15-20 hours per week (2 courses)	$8,000-$12,000	No	3-5 years or flexible
+8	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+9	5-10 hours per week (part-time)	$2,000-$4,000	Yes	1-2 years
+10	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+11	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+12	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+13	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+14	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years
+15	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+16	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+17	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+18	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+19	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+20	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+21	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+22	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+23	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+24	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years
+25	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible
+26	10-15 hours per week	$5,000-$8,000	No	2-3 years
+27	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+28	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+29	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+30	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+31	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+32	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+33	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+34	15-20 hours per week (2 courses)	$10,000-$12,000	No	2-3 years
+35	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible
+36	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+37	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years
+38	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+39	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+40	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+41	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+42	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+43	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+44	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+45	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+46	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years
+47	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible
+48	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible
+49	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+50	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+51	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+52	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+53	15-20 hours per week (2 courses)	$10,000-$15,000	No	2-3 years
+54	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+55	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+56	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years
+57	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+58	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years
+59	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+60	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years
+61	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+62	10-15 hours per week	$10,000-$15,000	No	2-3 years
+63	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+64	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+65	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+66	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+67	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+68	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years
+69	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+70	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+71	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+72	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+73	10-15 hours per week	$10,000-$12,000	No	2-3 years
+74	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+75	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years
+76	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years
+77	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+78	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+79	15-20 hours per week (2 courses)	$8,000-$12,000	No	3-5 years or flexible
+80	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	1-2 years
+81	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years
+82	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+83	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+84	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+85	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+86	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+87	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+88	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+89	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+90	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+91	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+92	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+93	10-15 hours per week	$10,000-$15,000	Yes	3-5 years
+94	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+95	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+96	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+97	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+98	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+99	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years
+100	5-10 hours per week (part-time)	$6,000-$8,000	No	3-5 years or flexible
+101	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible
+102	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+103	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+104	10-15 hours per week	$5,000-$8,000	No	2-3 years
+105	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+106	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+107	10-15 hours per week	$6,000-$8,000	No	2-3 years
+108	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+109	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+110	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+111	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years
+112	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+113	15-20 hours per week (2 courses)	$8,000-$12,000	Yes	2-3 years
+114	10-15 hours per week	$8,000-$12,000	Yes	1-2 years
+115	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+116	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+117	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years
+118	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+119	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+120	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+121	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+122	20+ hours per week (full-time)	$10,000-$12,000	No	2-3 years
+123	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+124	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+125	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+126	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+127	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+128	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+129	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+130	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years
+131	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+132	10-15 hours per week	$12,000-$15,000	No	2-3 years
+133	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years
+134	10-15 hours per week	$6,000-$8,000	Yes	2-3 years
+135	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+136	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+137	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+138	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+139	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+140	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible
+141	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+142	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	1-2 years
+143	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+144	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years
+145	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible
+146	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible
+147	10-15 hours per week	$8,000-$12,000	No	2-3 years
+148	5-10 hours per week (part-time)	$2,000-$4,000	Yes	1-2 years
+149	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+150	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+151	15-20 hours per week (2 courses)	$12,000-$15,000	No	2-3 years
+152	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years
+153	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+154	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	3-5 years
+155	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+156	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years
+157	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+158	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible
+159	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+160	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+161	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+162	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+163	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible
+164	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+165	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible
+166	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+167	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+168	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years
+169	20+ hours per week (full-time)	$10,000-$12,000	Yes	1-2 years
+170	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+171	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+172	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+173	10-15 hours per week	$6,000-$8,000	Yes	3-5 years
+174	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+175	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years
+176	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible
+177	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+178	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+179	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+180	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years
+181	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years
+182	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+183	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+184	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible
+185	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+186	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+187	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years
+188	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+189	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+190	10-15 hours per week	$10,000-$15,000	Yes	1-2 years
+191	10-15 hours per week	$8,000-$12,000	Yes	3-5 years
+192	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years
+193	10-15 hours per week	$12,000-$15,000	No	2-3 years
+194	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+195	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+196	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+197	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+198	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+199	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+200	10-15 hours per week	$12,000-$15,000	No	2-3 years
+201	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+202	10-15 hours per week	$6,000-$8,000	No	2-3 years
+203	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+204	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+205	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+206	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+207	10-15 hours per week	$6,000-$8,000	No	2-3 years
+208	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+209	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+210	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+211	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years
+212	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+213	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years
+214	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+215	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+216	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible
+217	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+218	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years
+219	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+220	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+221	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+222	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+223	20+ hours per week (full-time)	$8,000-$12,000	Yes	1-2 years
+224	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+225	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+226	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+227	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years
+228	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+229	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+230	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+231	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+232	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+233	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+234	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+235	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible
+236	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+237	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+238	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+239	5-10 hours per week (part-time)	$5,000-$8,000	No	3-5 years or flexible
+240	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+241	10-15 hours per week	$6,000-$8,000	Yes	2-3 years
+242	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+243	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+244	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+245	10-15 hours per week	$12,000-$15,000	No	2-3 years
+246	10-15 hours per week	$6,000-$8,000	Yes	3-5 years
+247	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+248	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years
+249	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+250	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible
+251	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+252	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+253	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+254	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years
+255	20+ hours per week (full-time)	$10,000-$15,000	No	2-3 years
+256	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+257	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+258	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+259	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+260	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+261	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years
+262	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years
+263	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+264	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years
+265	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+266	20+ hours per week (full-time)	$10,000-$12,000	Yes	2-3 years
+267	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+268	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+269	10-15 hours per week	$8,000-$12,000	No	2-3 years
+270	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+271	10-15 hours per week	$10,000-$12,000	Yes	1-2 years
+272	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years
+273	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years
+274	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+275	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years
+276	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+277	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+278	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+279	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible
+280	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years
+281	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+282	10-15 hours per week	$12,000-$15,000	No	2-3 years
+283	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+284	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible
+285	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+286	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+287	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+288	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+289	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+290	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+291	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+292	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+293	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+294	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+295	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+296	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years
+297	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+298	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+299	10-15 hours per week	$10,000-$15,000	No	2-3 years
+300	5-10 hours per week (part-time)	$8,000-$12,000	Yes	3-5 years
+301	15-20 hours per week (2 courses)	$10,000-$15,000	No	2-3 years
+302	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+303	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+304	10-15 hours per week	$5,000-$8,000	No	2-3 years
+305	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+306	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+307	20+ hours per week (full-time)	$10,000-$15,000	No	2-3 years
+308	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+309	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+310	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	3-5 years
+311	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+312	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+313	10-15 hours per week	$10,000-$12,000	No	2-3 years
+314	20+ hours per week (full-time)	$12,000-$15,000	Yes	2-3 years
+315	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+316	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+317	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+318	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+319	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years
+320	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+321	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+322	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years
+323	10-15 hours per week	$10,000-$15,000	Yes	1-2 years
+324	10-15 hours per week	$10,000-$15,000	Yes	3-5 years
+325	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+326	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+327	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+328	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+329	10-15 hours per week	$8,000-$12,000	Yes	3-5 years
+330	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years
+331	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+332	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+333	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+334	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years
+335	20+ hours per week (full-time)	$10,000-$12,000	No	2-3 years
+336	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years
+337	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+338	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+339	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible
+340	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible
+341	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+342	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+343	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+344	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years
+345	10-15 hours per week	$8,000-$12,000	Yes	3-5 years
+346	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+347	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+348	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+349	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+350	5-10 hours per week (part-time)	$6,000-$8,000	Yes	3-5 years
+351	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+352	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+353	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+354	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years
+355	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+356	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years
+357	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+358	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible
+359	10-15 hours per week	$12,000-$15,000	No	2-3 years
+360	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+361	10-15 hours per week	$10,000-$12,000	Yes	3-5 years
+362	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+363	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible
+364	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+365	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years
+366	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+367	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+368	5-10 hours per week (part-time)	$12,000-$15,000	Yes	3-5 years
+369	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible
+370	10-15 hours per week	$10,000-$15,000	No	2-3 years
+371	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+372	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years
+373	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+374	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+375	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+376	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+377	10-15 hours per week	$10,000-$12,000	No	2-3 years
+378	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years
+379	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+380	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+381	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+382	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+383	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible
+384	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+385	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+386	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+387	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years
+388	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+389	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+390	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+391	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+392	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+393	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years
+394	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+395	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+396	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+397	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+398	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+399	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years
+400	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+401	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+402	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+403	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+404	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible
+405	10-15 hours per week	$10,000-$15,000	Yes	1-2 years
+406	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+407	10-15 hours per week	$6,000-$8,000	Yes	3-5 years
+408	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+409	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible
+410	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+411	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+412	10-15 hours per week	$6,000-$8,000	No	2-3 years
+413	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+414	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+415	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+416	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years
+417	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+418	10-15 hours per week	$12,000-$15,000	Yes	1-2 years
+419	5-10 hours per week (1 course)	$10,000-$15,000	No	3-5 years or flexible
+420	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+421	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+422	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+423	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+424	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	2-3 years
+425	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years
+426	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+427	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+428	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+429	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+430	5-10 hours per week (1 course)	$6,000-$8,000	Yes	3-5 years
+431	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+432	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years
+433	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+434	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+435	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+436	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	3-5 years
+437	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+438	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years
+439	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible
+440	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+441	5-10 hours per week (part-time)	$5,000-$8,000	Yes	3-5 years
+442	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+443	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+444	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+445	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+446	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+447	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+448	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+449	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+450	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years
+451	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+452	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible
+453	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+454	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+455	5-10 hours per week (part-time)	$10,000-$12,000	Yes	3-5 years
+456	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years
+457	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+458	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+459	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	3-5 years
+460	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+461	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	1-2 years
+462	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+463	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+464	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+465	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+466	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+467	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+468	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+469	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+470	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+471	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+472	10-15 hours per week	$10,000-$15,000	No	2-3 years
+473	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible
+474	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+475	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+476	10-15 hours per week	$10,000-$12,000	No	2-3 years
+477	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+478	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	1-2 years
+479	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+480	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+481	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+482	20+ hours per week (full-time)	$10,000-$12,000	No	2-3 years
+483	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+484	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	1-2 years
+485	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+486	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+487	5-10 hours per week (1 course)	$8,000-$12,000	Yes	3-5 years
+488	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible
+489	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+490	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+491	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+492	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+493	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+494	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+495	10-15 hours per week	$6,000-$8,000	No	2-3 years
+496	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+497	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+498	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+499	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+500	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+501	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+502	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	3-5 years
+503	20+ hours per week (full-time)	$12,000-$15,000	Yes	2-3 years
+504	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+505	5-10 hours per week (1 course)	$8,000-$12,000	No	3-5 years or flexible
+506	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	3-5 years
+507	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+508	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+509	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+510	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+511	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+512	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+513	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+514	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+515	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+516	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years
+517	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+518	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+519	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+520	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+521	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+522	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+523	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+524	10-15 hours per week	$10,000-$12,000	No	2-3 years
+525	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+526	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+527	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	3-5 years
+528	10-15 hours per week	$12,000-$15,000	No	2-3 years
+529	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+530	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+531	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+532	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+533	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+534	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+535	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years
+536	10-15 hours per week	$5,000-$8,000	No	3-5 years or flexible
+537	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+538	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+539	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+540	20+ hours per week (full-time)	$10,000-$15,000	Yes	2-3 years
+541	10-15 hours per week	$6,000-$8,000	No	2-3 years
+542	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+543	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+544	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+545	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+546	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+547	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+548	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+549	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+550	20+ hours per week (full-time)	$10,000-$15,000	No	3-5 years or flexible
+551	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+552	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+553	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+554	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+555	5-10 hours per week (part-time)	$6,000-$8,000	Yes	3-5 years
+556	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+557	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+558	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+559	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+560	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+561	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+562	5-10 hours per week (1 course)	$4,000-$6,000	Yes	1-2 years
+563	5-10 hours per week (part-time)	$6,000-$8,000	No	3-5 years or flexible
+564	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+565	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+566	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+567	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+568	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years
+569	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+570	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+571	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+572	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+573	10-15 hours per week	$5,000-$8,000	No	2-3 years
+574	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+575	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+576	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+577	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+578	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+579	5-10 hours per week (part-time)	$2,500-$4,000	Yes	1-2 years
+580	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+581	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+582	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+583	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+584	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+585	10-15 hours per week	$5,000-$8,000	Yes	3-5 years
+586	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+587	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years
+588	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+589	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+590	15-20 hours per week (2 courses)	$10,000-$12,000	No	2-3 years
+591	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+592	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+593	5-10 hours per week (1 course)	$5,000-$8,000	No	3-5 years or flexible
+594	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+595	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+596	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+597	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+598	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+599	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	2-3 years
+600	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+601	10-15 hours per week	$6,000-$8,000	No	2-3 years
+602	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+603	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+604	5-10 hours per week (part-time)	$2,500-$4,000	Yes	3-5 years
+605	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+606	10-15 hours per week	$12,000-$15,000	No	3-5 years or flexible
+607	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+608	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+609	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+610	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+611	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+612	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	1-2 years
+613	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+614	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+615	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+616	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+617	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+618	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+619	10-15 hours per week	$10,000-$12,000	Yes	3-5 years
+620	5-10 hours per week (part-time)	$2,000-$4,000	No	3-5 years or flexible
+621	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+622	5-10 hours per week (part-time)	$2,500-$4,000	No	2-3 years
+623	10-15 hours per week	$8,000-$12,000	Yes	1-2 years
+624	10-15 hours per week (1-2 courses)	$10,000-$15,000	No	3-5 years or flexible
+625	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+626	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+627	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+628	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+629	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+630	5-10 hours per week (1 course)	$4,000-$6,000	Yes	2-3 years
+631	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+632	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+633	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+634	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years
+635	10-15 hours per week	$8,000-$12,000	No	3-5 years or flexible
+636	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+637	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+638	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+639	5-10 hours per week (1 course)	$5,000-$8,000	Yes	3-5 years
+640	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years
+641	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+642	10-15 hours per week	$10,000-$12,000	No	3-5 years or flexible
+643	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+644	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+645	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+646	10-15 hours per week	$12,000-$15,000	Yes	3-5 years
+647	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+648	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+649	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	3-5 years or flexible
+650	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+651	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+652	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+653	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+654	10-15 hours per week	$12,000-$15,000	Yes	1-2 years
+655	5-10 hours per week (1 course)	$2,000-$4,000	No	3-5 years or flexible
+656	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+657	10-15 hours per week	$6,000-$8,000	No	3-5 years or flexible
+658	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years
+659	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+660	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+661	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+662	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+663	5-10 hours per week (part-time)	$10,000-$15,000	No	3-5 years or flexible
+664	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+665	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years
+666	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+667	10-15 hours per week	$10,000-$15,000	No	3-5 years or flexible
+668	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+669	10-15 hours per week	$10,000-$12,000	No	2-3 years
+670	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+671	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+672	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+673	10-15 hours per week	$8,000-$12,000	Yes	1-2 years
+674	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+675	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+676	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+677	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+678	10-15 hours per week	$12,000-$15,000	Yes	2-3 years
+679	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+680	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+681	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+682	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+683	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+684	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+685	5-10 hours per week (1 course)	$3,500-$6,000	No	3-5 years or flexible
+686	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+687	5-10 hours per week (part-time)	$12,000-$15,000	No	3-5 years or flexible
+688	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+689	5-10 hours per week (1 course)	$4,000-$6,000	Yes	3-5 years
+690	10-15 hours per week	$10,000-$15,000	Yes	3-5 years
+691	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+692	5-10 hours per week (part-time)	$8,000-$12,000	Yes	3-5 years
+693	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+694	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+695	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years
+696	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+697	5-10 hours per week (1 course)	$10,000-$12,000	Yes	3-5 years
+698	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+699	5-10 hours per week (1 course)	$10,000-$12,000	No	3-5 years or flexible
+700	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+701	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+702	5-10 hours per week (1 course)	$2,000-$4,000	No	2-3 years
+703	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years
+704	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+705	5-10 hours per week (part-time)	$8,000-$12,000	No	3-5 years or flexible
+706	10-15 hours per week	$6,000-$8,000	Yes	2-3 years
+707	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	2-3 years
+708	10-15 hours per week (1-2 courses)	$6,000-$8,000	Yes	2-3 years
+709	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+710	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+711	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+712	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+713	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+714	5-10 hours per week (1 course)	$2,000-$4,000	Yes	3-5 years
+715	10-15 hours per week	$12,000-$15,000	No	2-3 years
+716	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	3-5 years
+717	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+718	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+719	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible
+720	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	3-5 years
+721	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	2-3 years
+722	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years
+723	10-15 hours per week (1-2 courses)	$8,000-$12,000	Yes	2-3 years
+724	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+725	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+726	5-10 hours per week (part-time)	$4,000-$6,000	Yes	1-2 years
+727	5-10 hours per week (1 course)	$10,000-$15,000	Yes	3-5 years
+728	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+729	10-15 hours per week	$5,000-$8,000	Yes	2-3 years
+730	10-15 hours per week (1-2 courses)	$10,000-$12,000	Yes	2-3 years
+731	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible
+732	5-10 hours per week (part-time)	$3,500-$6,000	No	2-3 years
+733	10-15 hours per week	$8,000-$12,000	Yes	2-3 years
+734	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+735	5-10 hours per week (part-time)	$3,500-$6,000	No	3-5 years or flexible
+736	5-10 hours per week (1 course)	$3,500-$6,000	Yes	3-5 years
+737	5-10 hours per week (1 course)	$3,500-$6,000	Yes	2-3 years
+738	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	2-3 years
+739	5-10 hours per week (part-time)	$2,000-$4,000	No	2-3 years
+740	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+741	10-15 hours per week	$10,000-$15,000	Yes	1-2 years
+742	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+743	5-10 hours per week (1 course)	$3,500-$6,000	Yes	1-2 years
+744	5-10 hours per week (part-time)	$3,500-$6,000	Yes	2-3 years
+745	5-10 hours per week (1 course)	$3,500-$6,000	No	2-3 years
+746	10-15 hours per week	$10,000-$12,000	Yes	2-3 years
+747	15-20 hours per week (2 courses)	$8,000-$12,000	Yes	1-2 years
+748	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+749	5-10 hours per week (1 course)	$2,000-$4,000	Yes	2-3 years
+750	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+751	5-10 hours per week (1 course)	$12,000-$15,000	Yes	3-5 years
+752	5-10 hours per week (1 course)	$12,000-$15,000	No	3-5 years or flexible
+753	10-15 hours per week	$5,000-$8,000	No	2-3 years
+754	10-15 hours per week	$6,000-$8,000	Yes	1-2 years
+755	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+756	5-10 hours per week (part-time)	$3,500-$6,000	Yes	1-2 years
+757	10-15 hours per week	$12,000-$15,000	No	2-3 years
+758	5-10 hours per week (1 course)	$2,500-$4,000	No	2-3 years
+759	10-15 hours per week	$5,000-$8,000	Yes	1-2 years
+760	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+761	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	2-3 years
+762	5-10 hours per week (1 course)	$2,500-$4,000	Yes	3-5 years
+763	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+764	10-15 hours per week	$10,000-$15,000	Yes	2-3 years
+765	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+766	5-10 hours per week (part-time)	$10,000-$12,000	No	3-5 years or flexible
+767	5-10 hours per week (1 course)	$2,000-$4,000	Yes	1-2 years
+768	5-10 hours per week (1 course)	$4,000-$6,000	No	2-3 years
+769	5-10 hours per week (part-time)	$4,000-$6,000	Yes	2-3 years
+770	10-15 hours per week	$12,000-$15,000	Yes	3-5 years
+771	10-15 hours per week	$5,000-$8,000	Yes	3-5 years
+772	5-10 hours per week (1 course)	$2,500-$4,000	Yes	1-2 years
+773	10-15 hours per week	$12,000-$15,000	Yes	1-2 years
+774	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+775	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years
+776	10-15 hours per week (1-2 courses)	$8,000-$12,000	No	3-5 years or flexible
+777	5-10 hours per week (1 course)	$2,500-$4,000	Yes	2-3 years
+778	10-15 hours per week (1-2 courses)	$5,000-$8,000	Yes	1-2 years
+779	5-10 hours per week (part-time)	$3,500-$6,000	Yes	3-5 years
+780	5-10 hours per week (1 course)	$4,000-$6,000	No	3-5 years or flexible
+781	10-15 hours per week (1-2 courses)	$10,000-$12,000	No	3-5 years or flexible
+782	5-10 hours per week (part-time)	$2,500-$4,000	No	3-5 years or flexible
+783	5-10 hours per week (part-time)	$10,000-$15,000	Yes	3-5 years
+784	10-15 hours per week (1-2 courses)	$12,000-$15,000	Yes	2-3 years
+785	5-10 hours per week (part-time)	$2,000-$4,000	Yes	3-5 years
+786	5-10 hours per week (part-time)	$2,500-$4,000	Yes	2-3 years
+787	5-10 hours per week (part-time)	$4,000-$6,000	No	2-3 years
+788	10-15 hours per week (1-2 courses)	$12,000-$15,000	No	2-3 years
+789	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+790	5-10 hours per week (1 course)	$6,000-$8,000	No	3-5 years or flexible
+791	10-15 hours per week	$12,000-$15,000	No	2-3 years
+792	5-10 hours per week (1 course)	$2,500-$4,000	No	3-5 years or flexible
+793	10-15 hours per week (1-2 courses)	$10,000-$15,000	Yes	2-3 years
+794	5-10 hours per week (part-time)	$6,000-$8,000	No	3-5 years or flexible
+795	5-10 hours per week (part-time)	$2,000-$4,000	Yes	2-3 years
+796	5-10 hours per week (part-time)	$4,000-$6,000	No	3-5 years or flexible
+797	5-10 hours per week (part-time)	$4,000-$6,000	Yes	3-5 years
+798	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
+799	10-15 hours per week (1-2 courses)	$5,000-$8,000	No	3-5 years or flexible
+800	10-15 hours per week (1-2 courses)	$6,000-$8,000	No	3-5 years or flexible
