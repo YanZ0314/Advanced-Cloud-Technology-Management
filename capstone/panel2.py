@@ -7,7 +7,8 @@ st.set_page_config(page_title="5-Year Financial Plan", layout="wide")
 
 st.title("ROI & Value Analysis")
 st.write(
-    "Define tangible and intangible returns, apply your assumptions, and visualize ROI progression over time."
+    "Define tangible and intangible returns for **AI Degree Advisor** (retention, excess credits avoided, "
+    "advisor time saved), apply assumptions, and visualize ROI progression over time."
 )
 
 

@@ -6,6 +6,14 @@ import streamlit as st
 
 BASE_DIR = Path(__file__).resolve().parent
 
+# Sidebar display names (avoid "Combined View / Panel N" in the UI).
+NAV_BUDGET_PLATFORM = "Budget & platform delivery"
+NAV_ROI_RESILIENCE = "ROI & resilience design"
+NAV_COMPLIANCE_AI = "Compliance & AI innovation"
+NAV_GOVERNANCE_CHANGE = "Governance & change adoption"
+NAV_STUDENT_DIFFUSION = "Student adoption & diffusion"
+NAV_OUTCOMES_DASHBOARD = "Integrated outcomes dashboard"
+
 PANEL_FILES = {
     "Panel 1 - Budget Planning & Cost Estimation": BASE_DIR / "panel1.py",
     "Panel 2 - ROI & Value Analysis": BASE_DIR / "panel2.py",
@@ -20,31 +28,33 @@ PANEL_FILES = {
 }
 
 COMBINED_VIEWS = {
-    "Combined View - Panel 1 + Panel 5": [
+    NAV_BUDGET_PLATFORM: [
         "Panel 1 - Budget Planning & Cost Estimation",
         "Panel 5 - Implementation Roadmap & DevOps Plan",
     ],
-    "Combined View - Panel 2 + Panel 6": [
+    NAV_ROI_RESILIENCE: [
         "Panel 2 - ROI & Value Analysis",
         "Panel 6 - Performance & Resilience Design",
     ],
-    "Combined View - Panel 3 + Panel 7": [
+    NAV_COMPLIANCE_AI: [
         "Panel 3 - Governance & Compliance",
         "Panel 7 - Innovation & AI Integration",
     ],
-    "Combined View - Panel 4 + Panel 8": [
+    NAV_GOVERNANCE_CHANGE: [
         "Panel 4 - Governance Model Refinement",
         "Panel 8 - Org Change & Adoption",
     ],
-    "Combined View - Panel 5 + Panel 9": [
-        "Panel 5 - Implementation Roadmap & DevOps Plan",
+    # Platform delivery (Panel 5) sits under Budget & platform delivery; this page is student diffusion only.
+    NAV_STUDENT_DIFFUSION: [
         "Panel 9 - Product Diffusion & Market Strategy",
     ],
 }
 
 PORTFOLIO_VIEWS = {
-    "Combined View - Panel 1 + Panel 5",
-    "Combined View - Panel 2 + Panel 6",
+    NAV_BUDGET_PLATFORM,
+    NAV_ROI_RESILIENCE,
+    NAV_COMPLIANCE_AI,
+    NAV_GOVERNANCE_CHANGE,
 }
 
 
@@ -73,6 +83,17 @@ def render_combined_view(view_name: str) -> None:
         st.error("One or more panel files are missing for the combined view.")
         st.stop()
 
+    # Single-page entry (e.g. student diffusion only; Panel 5 is under Budget & platform delivery).
+    if len(panel_paths) == 1:
+        st.markdown(f"## {view_name}")
+        if view_name == NAV_STUDENT_DIFFUSION:
+            st.info(
+                "**Platform delivery (Panel 5)** is under **Budget & platform delivery**. "
+            )
+        st.markdown(f"### {panel_labels[0]}")
+        run_panel_script(panel_paths[0])
+        return
+
     if view_name in PORTFOLIO_VIEWS:
         st.markdown(f"## {view_name}")
         for idx, (panel_label, panel_path) in enumerate(zip(panel_labels, panel_paths), start=1):
@@ -87,16 +108,21 @@ def render_combined_view(view_name: str) -> None:
                 run_panel_script(panel_path)
 
 
-nav_options = list(PANEL_FILES.keys()) + list(COMBINED_VIEWS.keys())
+PANEL_10_INTERNAL = "Panel 10 - Final Simulation Dashboard"
+# Sidebar: simulation flows + integrated dashboard (individual panels 1–9 are inside those flows).
+nav_options = list(COMBINED_VIEWS.keys()) + [NAV_OUTCOMES_DASHBOARD]
 
-st.sidebar.title("Cloud Capstone App")
-selected_panel = st.sidebar.radio("Navigate Panels", nav_options)
+st.sidebar.title("AI Degree Advisor Simulator")
+selected_panel = st.sidebar.radio("Navigate", nav_options)
 
 if selected_panel in COMBINED_VIEWS:
     render_combined_view(selected_panel)
-else:
-    panel_path = PANEL_FILES[selected_panel]
+elif selected_panel == NAV_OUTCOMES_DASHBOARD:
+    panel_path = PANEL_FILES[PANEL_10_INTERNAL]
     if not panel_path.exists():
         st.error(f"Missing panel file: {panel_path.name}")
         st.stop()
     run_panel_script(panel_path)
+else:
+    st.error("Unknown navigation selection.")
+    st.stop()

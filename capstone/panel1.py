@@ -3,11 +3,14 @@ import plotly.express as px
 import streamlit as st
 
 
-st.set_page_config(page_title="Budget Planning & Cost Estimation", layout="wide")
+st.set_page_config(page_title="AI Degree Advisor — Budget & ROI", layout="wide")
 
 st.title("Budget Planning & Cost Estimation")
 st.write(
-    "Estimate a 5-year cash-flow plan with yearly OpEx/CapEx projections and ROI metrics."
+    "**AI Degree Advisor** — cloud and AI-enabled academic advising: optimize pathways, "
+    "predict inefficient choices, and scale advising without scaling staff. "
+    "Estimate a 5-year cash-flow plan with OpEx/CapEx and ROI (reference: ~**$500K/year** platform cost, "
+    "**2–4×** value vs. investment in year one when outcomes land)."
 )
 
 with st.sidebar:
@@ -15,16 +18,16 @@ with st.sidebar:
     year_1_opex = st.number_input(
         "1st Year OpEx ($)",
         min_value=0.0,
-        value=216000.0,
-        step=1000.0,
-        help="Example default: $18K/mo AWS => $216K per year",
+        value=420000.0,
+        step=5000.0,
+        help="Cloud runtime, data platform, integrations (~$35K/mo baseline toward ~$500K total Year 1 with CapEx).",
     )
     year_1_capex = st.number_input(
         "1st Year CapEx ($)",
         min_value=0.0,
-        value=320000.0,
-        step=1000.0,
-        help="Example default: $320K/year server CapEx to be eliminated",
+        value=80000.0,
+        step=5000.0,
+        help="Implementation, integrations, security baseline (adjust if mostly OpEx).",
     )
     annual_opex_change_pct = st.number_input(
         "Annual OpEx change (%)",
@@ -122,11 +125,13 @@ st.plotly_chart(fig, use_container_width=True)
 st.subheader("Assumptions and Justification")
 st.markdown(
     f"""
+- **Program:** **AI Degree Advisor** — pathway optimization, excess-credit avoidance, progression analytics.
+- **Target outcomes (business case):** reduce time-to-degree **10–15%**, excess credits **~20%**, advisor workload **25–30%**, scale advising without proportional staff growth.
 - **Time horizon:** 5 years, with ROI evaluation at **{roi_horizon} years**.
 - **OpEx baseline assumption:** Year 1 starts at **${year_1_opex:,.0f}**, then changes by
-  **{annual_opex_change_pct:.1f}% annually** (e.g., cloud usage growth, reserved instance pricing, inflation).
+  **{annual_opex_change_pct:.1f}% annually** (e.g., usage growth, model inference, data storage).
 - **CapEx baseline assumption:** Year 1 starts at **${year_1_capex:,.0f}**, then changes by
-  **{annual_capex_change_pct:.1f}% annually** (e.g., on-prem server refresh avoided in cloud migration scenarios).
+  **{annual_capex_change_pct:.1f}% annually** (e.g., implementation amortization or refresh cycles).
 - **Baseline for ROI comparison:** keeps Year 1 total cost flat every year
   (**${baseline_annual_cost:,.0f}/year**) to show impact from your entered annual change assumptions.
 - **Interpretation:** Positive ROI indicates projected savings versus baseline over the selected horizon.

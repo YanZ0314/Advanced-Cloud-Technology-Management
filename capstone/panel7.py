@@ -8,8 +8,9 @@ st.set_page_config(page_title="Innovation & AI Integration", layout="wide")
 
 st.title("Innovation & AI Integration")
 st.write(
-    "Simulate how ROI changes with AI investment size and data quality. "
-    "The model includes diminishing returns to show plateau behavior."
+    "Simulate ROI sensitivity for **AI Degree Advisor** investments (pathway models, degree audit AI, "
+    "early-warning analytics) and **data quality** (SIS/degree rules completeness). "
+    "Includes diminishing returns at high spend."
 )
 
 with st.sidebar:

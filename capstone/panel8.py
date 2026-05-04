@@ -3,17 +3,18 @@ import plotly.express as px
 import streamlit as st
 
 
-st.set_page_config(page_title="Org Change & Adoption", layout="wide")
+st.set_page_config(page_title="AI Degree Advisor — Org Adoption", layout="wide")
 
 st.title("Org Change & Adoption")
 st.write(
-    "Simulate monthly adoption progress based on training hours and leadership engagement."
+    "Simulate **advisor and faculty** adoption of AI Degree Advisor workflows: training intensity and "
+    "leadership sponsorship drive usage and cut manual advising load."
 )
 
 with st.sidebar:
     st.header("Inputs")
-    training_hours = st.slider("Training Hours (per employee)", 0, 40, 20, 1)
-    leadership_engagement = st.slider("Leadership Engagement (%)", 0, 100, 60, 1)
+    training_hours = st.slider("Advisor training hours", 0, 40, 20, 1)
+    leadership_engagement = st.slider("Leadership engagement (%)", 0, 100, 60, 1)
     simulation_months = st.slider("Simulation Months", 3, 12, 6, 1)
 
 

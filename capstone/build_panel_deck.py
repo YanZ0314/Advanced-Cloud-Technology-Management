@@ -79,9 +79,9 @@ def add_summary_slide(prs: Presentation) -> None:
     mtf.paragraphs[0].font.bold = True
     mtf.paragraphs[0].font.size = Pt(18)
     for line in [
-        "ROI: ~62.8% over 3-year horizon",
-        "Expected Uptime: ~99.36% (Redundancy 3, Single-Region)",
-        "Adoption: ~80%+ achievable by month 6 with strong enablement",
+        "Annual platform cost (illustrative): ~$500K",
+        "Value vs. investment (year one): 2–4× when outcomes land",
+        "Targets: −10–15% time-to-degree, ~−20% excess credits, −25–30% advisor workload",
     ]:
         p = mtf.add_paragraph()
         p.text = f"- {line}"
@@ -97,10 +97,10 @@ def add_summary_slide(prs: Presentation) -> None:
     itf.paragraphs[0].font.bold = True
     itf.paragraphs[0].font.size = Pt(18)
     for line in [
-        "1) Prioritize reliability investments that maximize uptime before scaling spend.",
-        "2) Use automation gains to improve customer trust and reduce adoption friction.",
-        "3) Coordinate leadership engagement and training with go-to-market execution.",
-        "4) Monitor ROI, uptime, and adoption together as a single operating dashboard.",
+        "1) Treat uptime as a student-success asset: registration and pathway guidance must be dependable.",
+        "2) Invest in AI + clean academic data (rules, transcripts) before scaling marketing to students.",
+        "3) Train advisors and leaders together so workload shifts from triage to high-touch coaching.",
+        "4) Track unit economics: ~$500K annual cost pays back when completion and efficiency gains hit target bands.",
     ]:
         p = itf.add_paragraph()
         p.text = line
@@ -114,32 +114,32 @@ def main() -> None:
 
     add_title_slide(
         prs,
-        "Cloud Transformation Simulation Portfolio",
-        "6-panel narrative deck across cost, reliability, and adoption outcomes",
+        "AI Degree Advisor — Simulation Portfolio",
+        "Cloud + AI academic advising: pathways, excess credits, completion — scale advising without scaling staff",
     )
 
     add_panel_slide(
         prs,
         "Panel 1: Budget Planning & Cost Estimation",
-        "Set the baseline economics and ROI sensitivity over 5 years to frame investment decisions.",
+        "Frame ~$500K annual platform economics and multi-year ROI for AI Degree Advisor.",
         find_image(["panel1", "p1", "budget"]),
     )
     add_panel_slide(
         prs,
-        "Panel 5: DevOps Automation Impact",
-        "Show how automation and team design influence deployment speed and failure reduction.",
+        "Panel 5: Platform Delivery & Automation",
+        "Reliable releases for models, APIs, and integrations that students and advisors depend on.",
         find_image(["panel5", "p5", "devops"]),
     )
     add_panel_slide(
         prs,
-        "Panel 6: Uptime vs Cost Trade-off",
-        "Demonstrate resilience design choices and the cost required to achieve uptime targets.",
+        "Panel 6: Reliability vs Cost",
+        "Balance uptime for peak registration and advising seasons against monthly cloud run rate.",
         find_image(["panel6", "p6", "uptime", "resilience"]),
     )
     add_panel_slide(
         prs,
-        "Panel 8/9: Adoption Dynamics",
-        "Link internal adoption readiness with customer diffusion to explain scale-up timing.",
+        "Panel 8/9: Advisor & Student Adoption",
+        "Advisor workflow adoption plus student diffusion — network effects accelerate student-facing rollout.",
         find_image(["panel8", "panel9", "adoption", "market"]),
     )
     add_summary_slide(prs)

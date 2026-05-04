@@ -5,12 +5,12 @@ def clamp(value: float, min_value: float, max_value: float) -> float:
     return max(min_value, min(max_value, value))
 
 
-st.set_page_config(page_title="Implementation Roadmap & DevOps Plan", layout="wide")
+st.set_page_config(page_title="AI Degree Advisor — Platform Delivery", layout="wide")
 
 st.title("Implementation Roadmap & DevOps Plan")
 st.write(
-    "Adjust automation and team size to estimate how delivery performance changes. "
-    "Higher automation generally increases deployment frequency and lowers failure rate."
+    "Model delivery performance for the **AI Degree Advisor** platform: automation and team size affect "
+    "release cadence and reliability for models, APIs, and integrations that students and advisors rely on."
 )
 
 col1, col2 = st.columns(2)

@@ -3,11 +3,12 @@ import plotly.express as px
 import streamlit as st
 
 
-st.set_page_config(page_title="Uptime vs Cost Trade-off Simulator", layout="wide")
+st.set_page_config(page_title="AI Degree Advisor — Reliability vs Cost", layout="wide")
 
 st.title("Performance & Resilience Design")
 st.write(
-    "Simulate how redundancy design choices influence monthly cost and expected uptime."
+    "Simulate availability and cost trade-offs for the **student- and advisor-facing** advising platform: "
+    "redundancy and region strategy vs. monthly run rate."
 )
 
 base_cost = 12000
