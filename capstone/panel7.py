@@ -38,8 +38,8 @@ def roi_percent(investment_k: float, data_quality: float) -> float:
     - Data quality scales value creation, with strongest practical gains near 80%.
     """
     quality_factor = min(data_quality / 80.0, 1.0)
-    max_benefit_k = 520.0 * quality_factor
-    growth_component = 1 - np.exp(-investment_k / 130.0)
+    max_benefit_k = 320.0 * quality_factor
+    growth_component = 1 - np.exp(-investment_k / 180.0)
     expected_benefit_k = max_benefit_k * growth_component
     if investment_k <= 0:
         return 0.0

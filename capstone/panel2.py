@@ -76,14 +76,16 @@ with left:
     initial_investment = st.number_input(
         "Initial investment (USD, Year 1)",
         min_value=0.0,
-        value=250000.0,
+        value=500000.0,
         step=10000.0,
+        help="Matches Panel 1 Year 1 total: ~$420K OpEx + $80K CapEx.",
     )
     annual_operating_cost = st.number_input(
         "Annual operating cost (USD)",
         min_value=0.0,
-        value=80000.0,
+        value=420000.0,
         step=5000.0,
+        help="Matches Panel 1 Year 1 OpEx baseline (~$35K/mo).",
     )
     annual_benefit_growth = st.slider(
         "Annual growth of benefits (%)",
@@ -99,7 +101,7 @@ with right:
         "Target ROI (%)",
         min_value=-100.0,
         max_value=500.0,
-        value=42.0,
+        value=15.0,
         step=1.0,
     )
     include_intangible_in_roi = st.checkbox(

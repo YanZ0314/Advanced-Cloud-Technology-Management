@@ -17,11 +17,11 @@ with st.sidebar:
     st.header("Scenario Inputs")
     market_type = st.selectbox(
         "Segment",
-        options=["B2B (institution-led)", "B2C (student-facing)"],
+        options=["B2B", "B2C"],
         index=1,
     )
-    marketing_pct = st.slider("Student communication / launch intensity (% of plan)", 0, 100, 55, 1)
-    network_effect = st.slider("Network Effect Strength", 0.0, 1.0, 0.6, 0.05)
+    marketing_pct = st.slider("Student communication / launch intensity (% of plan)", 0, 100, 35, 1)
+    network_effect = st.slider("Network Effect Strength", 0.0, 1.0, 0.35, 0.05)
     horizon_months = st.slider("Time Horizon (months)", 6, 36, 18, 1)
 
     panel5_export = st.session_state.get("panel5_export")
@@ -59,10 +59,10 @@ def logistic_adoption(month: int, market: str, mkt_pct: float, net_effect: float
     market_scale = 1.08 if market == "B2C" else 0.90
     market_center_shift = -1.2 if market == "B2C" else 1.8
 
-    growth_rate = (0.10 + (mkt_pct / 100.0) * 0.14 + net_effect * 0.24) * market_scale
-    midpoint = 10.0 - (mkt_pct / 100.0) * 3.0 - net_effect * 3.8 + market_center_shift
+    growth_rate = (0.06 + (mkt_pct / 100.0) * 0.09 + net_effect * 0.15) * market_scale
+    midpoint = 13.0 - (mkt_pct / 100.0) * 2.5 - net_effect * 2.5 + market_center_shift
 
-    adoption = 100.0 / (1.0 + math.exp(-growth_rate * (month - midpoint)))
+    adoption = 75.0 / (1.0 + math.exp(-growth_rate * (month - midpoint)))
     return max(0.0, min(100.0, adoption))
 
 
@@ -72,17 +72,15 @@ eff_mkt, eff_net = effective_marketing_network(
     float(marketing_pct), float(network_effect), panel5_export, use_panel5_blend
 )
 
-records = []
-for month in range(1, horizon_months + 1):
-    records.append(
-        {
-            "Month": month,
-            "Adoption (%)": logistic_adoption(month, _model_key, eff_mkt, eff_net),
-        }
-    )
+# Use fine-grained steps for a smooth S-curve render; keep integer months for the export/metric.
+_steps = [m / 2 for m in range(2, horizon_months * 2 + 1)]
+records = [
+    {"Month": m, "Adoption (%)": logistic_adoption(m, _model_key, eff_mkt, eff_net)}
+    for m in _steps
+]
 
 df = pd.DataFrame(records)
-final_adoption = float(df.iloc[-1]["Adoption (%)"])
+final_adoption = float(logistic_adoption(horizon_months, _model_key, eff_mkt, eff_net))
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Market", market_type)
@@ -119,13 +117,28 @@ fig = px.line(
     df,
     x="Month",
     y="Adoption (%)",
-    markers=True,
-    title=f"{market_type} Adoption S-Curve",
+    markers=False,
+    title=f"{market_type} Student Adoption — S-Curve",
 )
-fig.update_layout(xaxis=dict(dtick=1), yaxis=dict(range=[0, 100]))
+fig.update_traces(
+    line=dict(width=3, color="#2563eb"),
+    fill="tozeroy",
+    fillcolor="rgba(37,99,235,0.08)",
+)
+fig.update_layout(
+    xaxis=dict(title="Month", dtick=1, showgrid=True, gridcolor="#e5e7eb"),
+    yaxis=dict(title="Adoption (%)", range=[0, 100], showgrid=True, gridcolor="#e5e7eb"),
+    plot_bgcolor="#ffffff",
+    hovermode="x unified",
+)
 st.plotly_chart(fig, use_container_width=True)
 
-st.dataframe(df.style.format({"Adoption (%)": "{:.1f}%"}), use_container_width=True)
+# Table shows whole months only
+table_df = pd.DataFrame([
+    {"Month": m, "Adoption (%)": logistic_adoption(m, _model_key, eff_mkt, eff_net)}
+    for m in range(1, horizon_months + 1)
+])
+st.dataframe(table_df.style.format({"Adoption (%)": "{:.1f}%"}), use_container_width=True)
 
 if _model_key == "B2C" and eff_net > 0.6 and horizon_months >= 18:
     st.success(

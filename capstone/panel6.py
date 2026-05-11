@@ -30,16 +30,18 @@ with st.sidebar:
 
 
 def estimate_uptime_cost(level: int, is_multi_region: bool) -> tuple[float, float]:
-    # Starts from 99.00% and improves with each redundancy level.
-    base_uptime = 99.0 + (level - 1) * 0.18
+    # Explicit uptime targets per redundancy level.
+    uptime_map = {1: 99.00, 2: 99.20, 3: 99.50, 4: 99.90, 5: 99.99}
+    base_uptime = uptime_map.get(level, 99.00)
     # Multi-region adds a reliability boost.
     uptime = base_uptime + (0.22 if is_multi_region else 0.0)
     uptime = min(uptime, 99.99)
 
-    # Cost grows non-linearly as resilience architecture becomes more complex.
-    level_multiplier = 1 + (level - 1) * 0.22
+    # Explicit monthly base costs — Level 3→4 jump is intentionally steep,
+    # reflecting the addition of active failover, cross-zone replication, and DR tooling.
+    cost_map = {1: 12000, 2: 15600, 3: 20280, 4: 38000, 5: 48000}
     region_multiplier = 1.45 if is_multi_region else 1.0
-    monthly_cost = base_cost * level_multiplier * region_multiplier
+    monthly_cost = cost_map.get(level, 12000) * region_multiplier
     return uptime, monthly_cost
 
 
@@ -76,7 +78,7 @@ fig = px.line(
     y="Expected Uptime (%)",
     markers=True,
     text="Redundancy Level",
-    title="Cost-Reliability Trade-off by Redundancy Level",
+    title="Cost-Reliability Trade-off by Redundancy Level (Non-Linear Cost Curve)",
 )
 fig.update_traces(textposition="top center")
 fig.update_layout(xaxis_title="Monthly Cost (USD)", yaxis_title="Expected Uptime (%)")
