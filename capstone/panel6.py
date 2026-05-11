@@ -81,7 +81,16 @@ fig = px.line(
     title="Cost-Reliability Trade-off by Redundancy Level (Non-Linear Cost Curve)",
 )
 fig.update_traces(textposition="top center")
-fig.update_layout(xaxis_title="Monthly Cost (USD)", yaxis_title="Expected Uptime (%)")
+fig.update_layout(
+    xaxis_title="Monthly Cost (USD)",
+    yaxis_title="Expected Uptime (%)",
+    template="plotly_dark",
+    paper_bgcolor="#1E2330",
+    plot_bgcolor="#1E2330",
+    font=dict(family="Inter, sans-serif", color="#F0F4FF"),
+    title_font=dict(family="Inter, sans-serif", color="#F0F4FF", size=15),
+    margin=dict(l=40, r=20, t=40, b=40),
+)
 st.plotly_chart(fig, use_container_width=True)
 
 st.subheader("Scenario Table")

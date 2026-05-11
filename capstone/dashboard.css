@@ -1,0 +1,323 @@
+/* ── Google Font ── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ── Root variables ── */
+:root {
+    --primary:        #4F8EF7;
+    --primary-dark:   #2563EB;
+    --surface:        #1E2330;
+    --surface-alt:    #252B3B;
+    --surface-border: #2E3549;
+    --text-primary:   #F0F4FF;
+    --text-secondary: #8B95B0;
+    --accent-green:   #22D3A5;
+    --accent-amber:   #F59E0B;
+    --accent-red:     #EF4444;
+    --radius:         10px;
+    --shadow:         0 4px 16px rgba(0,0,0,0.35);
+}
+
+/* ── App background ── */
+.stApp {
+    background: #141824 !important;
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* ── Main content area ── */
+section.main .block-container {
+    padding: 1.8rem 2.2rem 2rem !important;
+    max-width: 1280px !important;
+}
+
+/* ── Sidebar ── */
+[data-testid="stSidebar"] {
+    background: var(--surface) !important;
+    border-right: 1px solid var(--surface-border) !important;
+}
+[data-testid="stSidebar"] * {
+    color: var(--text-primary) !important;
+}
+[data-testid="stSidebar"] .stRadio label {
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: background 0.15s;
+    cursor: pointer;
+}
+[data-testid="stSidebar"] .stRadio label:hover {
+    background: var(--surface-alt) !important;
+}
+[data-testid="stSidebarHeader"] {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    letter-spacing: .04em !important;
+    color: var(--primary) !important;
+}
+
+/* ── Page title (h1) ── */
+h1 {
+    font-size: 1.85rem !important;
+    font-weight: 700 !important;
+    color: var(--text-primary) !important;
+    border-bottom: 2px solid var(--primary) !important;
+    padding-bottom: .45rem !important;
+    margin-bottom: .9rem !important;
+}
+
+/* ── Section headings ── */
+h2, h3 {
+    color: var(--text-primary) !important;
+    font-weight: 600 !important;
+}
+h2 { font-size: 1.3rem !important; }
+h3 { font-size: 1.1rem !important; color: var(--text-secondary) !important; }
+
+/* ── Metric cards ── */
+[data-testid="stMetric"] {
+    background: var(--surface) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: var(--radius) !important;
+    padding: 1rem 1.2rem !important;
+    box-shadow: var(--shadow) !important;
+}
+[data-testid="stMetricLabel"] {
+    font-size: .75rem !important;
+    font-weight: 600 !important;
+    letter-spacing: .06em !important;
+    text-transform: uppercase !important;
+    color: var(--text-secondary) !important;
+}
+[data-testid="stMetricValue"] {
+    font-size: 1.8rem !important;
+    font-weight: 700 !important;
+    color: var(--primary) !important;
+}
+[data-testid="stMetricDelta"] { font-size: .82rem !important; }
+
+/* ── Dataframes / tables ── */
+[data-testid="stDataFrame"] {
+    border: 1px solid var(--surface-border) !important;
+    border-radius: var(--radius) !important;
+    overflow: hidden !important;
+    box-shadow: var(--shadow) !important;
+}
+[data-testid="stDataFrame"] thead tr {
+    background: var(--surface-alt) !important;
+}
+
+/* ── Plotly chart wrapper ── */
+[data-testid="stPlotlyChart"] {
+    background: var(--surface) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: var(--radius) !important;
+    padding: .5rem !important;
+    box-shadow: var(--shadow) !important;
+}
+
+/* ── Expanders ── */
+[data-testid="stExpander"] {
+    background: var(--surface) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: var(--radius) !important;
+}
+
+/* ── Info / warning / error banners ── */
+[data-testid="stAlert"] {
+    border-radius: var(--radius) !important;
+    border-left-width: 4px !important;
+}
+
+/* ── Tabs ── */
+[data-testid="stTabs"] [role="tab"] {
+    font-size: .85rem !important;
+    font-weight: 600 !important;
+    letter-spacing: .03em !important;
+    color: var(--text-secondary) !important;
+    padding: .45rem 1rem !important;
+}
+[data-testid="stTabs"] [role="tab"][aria-selected="true"] {
+    color: var(--primary) !important;
+    border-bottom: 2px solid var(--primary) !important;
+}
+
+/* ── Input widgets (number_input, text_input, selectbox) ── */
+input[type="number"],
+input[type="text"],
+input[type="search"],
+textarea,
+[data-baseweb="input"] input,
+[data-baseweb="textarea"] textarea {
+    background: var(--surface-alt) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: 6px !important;
+}
+/* Input wrapper containers */
+[data-baseweb="input"],
+[data-baseweb="base-input"],
+[data-testid="stNumberInput"] [data-baseweb="input"],
+[data-testid="stTextInput"] [data-baseweb="input"] {
+    background: var(--surface-alt) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: 6px !important;
+}
+/* Stepper buttons on number_input */
+[data-testid="stNumberInput"] button {
+    background: var(--surface-border) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--surface-border) !important;
+}
+/* Widget labels */
+[data-testid="stWidgetLabel"] label,
+[data-testid="stWidgetLabel"] p {
+    color: var(--text-secondary) !important;
+    font-size: .82rem !important;
+    font-weight: 600 !important;
+}
+/* Selectbox — structural overrides for background/border only;
+   text color is handled by .streamlit/config.toml theme */
+[data-baseweb="select"] [data-baseweb="select-control"] {
+    background: var(--surface-alt) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: 6px !important;
+}
+/* Dropdown arrow */
+[data-baseweb="select"] svg {
+    fill: var(--text-secondary) !important;
+}
+/* Selectbox label */
+[data-testid="stSelectbox"] label,
+[data-testid="stSelectbox"] p {
+    color: var(--text-secondary) !important;
+    font-size: .82rem !important;
+    font-weight: 600 !important;
+}
+/* Selectbox dropdown menu */
+[data-baseweb="popover"] [data-baseweb="menu"] {
+    background: var(--surface) !important;
+    border: 1px solid var(--surface-border) !important;
+}
+[data-baseweb="popover"] [data-baseweb="menu"] li {
+    color: var(--text-primary) !important;
+}
+[data-baseweb="popover"] [data-baseweb="menu"] li:hover {
+    background: var(--surface-alt) !important;
+}
+/* Help tooltip icon */
+[data-testid="stTooltipIcon"] svg {
+    fill: var(--text-secondary) !important;
+}
+
+/* ── Form container (st.form) ── */
+[data-testid="stForm"] {
+    background: var(--surface) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: var(--radius) !important;
+    padding: 1.2rem 1.4rem !important;
+    box-shadow: var(--shadow) !important;
+}
+
+/* ── Textarea ── */
+textarea {
+    background: var(--surface-alt) !important;
+    color: var(--text-primary) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: 6px !important;
+}
+[data-baseweb="textarea"] {
+    background: var(--surface-alt) !important;
+    border: 1px solid var(--surface-border) !important;
+    border-radius: 6px !important;
+}
+[data-baseweb="textarea"] textarea {
+    background: var(--surface-alt) !important;
+    color: var(--text-primary) !important;
+}
+
+/* ── Form submit button ── */
+[data-testid="stFormSubmitButton"] button {
+    background: var(--primary-dark) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 6px !important;
+    font-weight: 600 !important;
+    padding: .45rem 1.1rem !important;
+    transition: filter 0.2s;
+}
+[data-testid="stFormSubmitButton"] button:hover {
+    filter: brightness(1.15);
+}
+
+/* ── Placeholder text ── */
+::placeholder {
+    color: var(--text-secondary) !important;
+    opacity: 0.7 !important;
+}
+
+/* ── Slider track ── */
+[data-testid="stSlider"] [data-baseweb="slider"] [role="slider"] {
+    background: var(--primary) !important;
+}
+
+/* ── Buttons ── */
+button[kind="primary"], .stButton > button {
+    background: var(--primary-dark) !important;
+    border: none !important;
+    border-radius: 6px !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+    transition: filter 0.2s;
+}
+.stButton > button:hover { filter: brightness(1.15); }
+
+/* ── Divider ── */
+hr {
+    border-color: var(--surface-border) !important;
+    margin: 1.5rem 0 !important;
+}
+
+/* ── General text ── */
+p, li, span, label, td, th, strong, b, em, i, code, small, caption {
+    color: var(--text-primary) !important;
+}
+
+/* ── Markdown tables ── */
+table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    background: var(--surface) !important;
+    border-radius: var(--radius) !important;
+    overflow: hidden !important;
+    margin: .75rem 0 !important;
+}
+thead tr {
+    background: var(--surface-alt) !important;
+}
+th {
+    padding: .55rem .8rem !important;
+    font-size: .78rem !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: .04em !important;
+    color: var(--text-secondary) !important;
+    border-bottom: 2px solid var(--surface-border) !important;
+}
+td {
+    padding: .5rem .8rem !important;
+    border-bottom: 1px solid var(--surface-border) !important;
+    color: var(--text-primary) !important;
+}
+tr:hover td {
+    background: rgba(79,142,247,0.06) !important;
+}
+
+/* ── Caption / helper text ── */
+[data-testid="stCaptionContainer"] {
+    color: var(--text-secondary) !important;
+}
+
+/* ── st.info / success / warning / error text ── */
+[data-testid="stAlertContainer"] p,
+[data-testid="stAlertContainer"] li,
+[data-testid="stAlertContainer"] strong {
+    color: inherit !important;
+}

@@ -126,10 +126,15 @@ fig.update_traces(
     fillcolor="rgba(37,99,235,0.08)",
 )
 fig.update_layout(
-    xaxis=dict(title="Month", dtick=1, showgrid=True, gridcolor="#e5e7eb"),
-    yaxis=dict(title="Adoption (%)", range=[0, 100], showgrid=True, gridcolor="#e5e7eb"),
-    plot_bgcolor="#ffffff",
+    xaxis=dict(title="Month", dtick=1, showgrid=True, gridcolor="#2E3549"),
+    yaxis=dict(title="Adoption (%)", range=[0, 100], showgrid=True, gridcolor="#2E3549"),
+    template="plotly_dark",
+    paper_bgcolor="#1E2330",
+    plot_bgcolor="#1E2330",
     hovermode="x unified",
+    font=dict(family="Inter, sans-serif", color="#F0F4FF"),
+    title_font=dict(family="Inter, sans-serif", color="#F0F4FF", size=15),
+    margin=dict(l=40, r=20, t=40, b=40),
 )
 st.plotly_chart(fig, use_container_width=True)
 

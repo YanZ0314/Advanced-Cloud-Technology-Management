@@ -119,7 +119,15 @@ fig = px.line(
     markers=True,
     title="5-Year Projection (x=$, y=Year)",
 )
-fig.update_layout(yaxis=dict(dtick=1))
+fig.update_layout(
+    yaxis=dict(dtick=1),
+    template="plotly_dark",
+    paper_bgcolor="#1E2330",
+    plot_bgcolor="#1E2330",
+    font=dict(family="Inter, sans-serif", color="#F0F4FF"),
+    title_font=dict(family="Inter, sans-serif", color="#F0F4FF", size=15),
+    margin=dict(l=40, r=20, t=40, b=40),
+)
 st.plotly_chart(fig, use_container_width=True)
 
 st.subheader("Assumptions and Justification")

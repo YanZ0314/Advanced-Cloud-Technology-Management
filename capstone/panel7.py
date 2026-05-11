@@ -92,6 +92,12 @@ fig.add_annotation(
 fig.update_layout(
     xaxis_title="AI Investment (K USD)",
     yaxis_title="ROI (%)",
+    template="plotly_dark",
+    paper_bgcolor="#1E2330",
+    plot_bgcolor="#1E2330",
+    font=dict(family="Inter, sans-serif", color="#F0F4FF"),
+    title_font=dict(family="Inter, sans-serif", color="#F0F4FF", size=15),
+    margin=dict(l=40, r=20, t=40, b=40),
 )
 st.plotly_chart(fig, use_container_width=True)
 

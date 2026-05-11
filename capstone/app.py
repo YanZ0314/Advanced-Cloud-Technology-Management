@@ -1,10 +1,13 @@
-from pathlib import Path
+﻿from pathlib import Path
 import runpy
 
 import streamlit as st
 
 
 BASE_DIR = Path(__file__).resolve().parent
+
+# ── Global dashboard CSS (loaded from dashboard.css) ─────────────────────────
+_DASHBOARD_CSS = "<style>" + (BASE_DIR / "dashboard.css").read_text(encoding="utf-8") + "</style>"
 
 # Sidebar display names (avoid "Combined View / Panel N" in the UI).
 NAV_BUDGET_PLATFORM = "Budget & platform delivery"
@@ -13,6 +16,7 @@ NAV_COMPLIANCE_AI = "Compliance & AI innovation"
 NAV_GOVERNANCE_CHANGE = "Governance & change adoption"
 NAV_STUDENT_DIFFUSION = "Student adoption & diffusion"
 NAV_OUTCOMES_DASHBOARD = "Integrated outcomes dashboard"
+NAV_CLOUD_COST = "Cloud cost management"
 
 PANEL_FILES = {
     "Panel 1 - Budget Planning & Cost Estimation": BASE_DIR / "panel1.py",
@@ -25,6 +29,7 @@ PANEL_FILES = {
     "Panel 8 - Org Change & Adoption": BASE_DIR / "panel8.py",
     "Panel 9 - Product Diffusion & Market Strategy": BASE_DIR / "panel9.py",
     "Panel 10 - Final Simulation Dashboard": BASE_DIR / "panel10.py",
+    "Panel 11 - Cloud Cost Management": BASE_DIR / "panel11.py",
 }
 
 COMBINED_VIEWS = {
@@ -109,8 +114,12 @@ def render_combined_view(view_name: str) -> None:
 
 
 PANEL_10_INTERNAL = "Panel 10 - Final Simulation Dashboard"
-# Sidebar: simulation flows + integrated dashboard (individual panels 1–9 are inside those flows).
-nav_options = list(COMBINED_VIEWS.keys()) + [NAV_OUTCOMES_DASHBOARD]
+PANEL_11_INTERNAL = "Panel 11 - Cloud Cost Management"
+# Sidebar: simulation flows + integrated dashboard (individual panels 1-9 are inside those flows).
+nav_options = list(COMBINED_VIEWS.keys()) + [NAV_OUTCOMES_DASHBOARD, NAV_CLOUD_COST]
+
+# Inject global dashboard theme
+st.markdown(_DASHBOARD_CSS, unsafe_allow_html=True)
 
 st.sidebar.title("AI Degree Advisor Simulator")
 selected_panel = st.sidebar.radio("Navigate", nav_options)
@@ -119,6 +128,12 @@ if selected_panel in COMBINED_VIEWS:
     render_combined_view(selected_panel)
 elif selected_panel == NAV_OUTCOMES_DASHBOARD:
     panel_path = PANEL_FILES[PANEL_10_INTERNAL]
+    if not panel_path.exists():
+        st.error(f"Missing panel file: {panel_path.name}")
+        st.stop()
+    run_panel_script(panel_path)
+elif selected_panel == NAV_CLOUD_COST:
+    panel_path = PANEL_FILES[PANEL_11_INTERNAL]
     if not panel_path.exists():
         st.error(f"Missing panel file: {panel_path.name}")
         st.stop()
